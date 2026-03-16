@@ -1,0 +1,1712 @@
+5000:0
+1	Öğle	öğle	Noun	Noun	A3sg|Pnon|Nom	7	SUBJECT
+2	yumegi	yumegi	Noun	Noun	A3sg|Pnon|Nom	3	MWE
+3	zaman	zaman	Noun	Noun	A3sg|Pnon|Nom	7	MODIFIER
+4	roll	roll	Noun	Noun	A3sg|Pnon|Nom	5	POSSESSOR
+5	sushi	sush	Noun	Noun	A3sg|Pnon|Acc	7	SUBJECT
+6	menu	men	Noun	Noun	A3sg|Pnon|Acc	7	OBJECT
+7	var	var	Adj	Adj	_	0	PREDICATE
+8	.	.	Punc	Punc	_	7	PUNCTUATION
+
+5000:1
+1	33TL	33TL	?	?	_	3	MODIFIER
+2	acaba	acaba	Adverb	Adverb	_	3	MODIFIER
+3	içecek	iç	Verb	Verb	Pos|Fut|A3sg	0	PREDICATE
+4	içinde	iç	Noun	NAdj	A3sg|P3sg|Loc	3	MODIFIER
+5	.	.	Punc	Punc	_	4	PUNCTUATION
+
+5000:2
+1	Biraz	biraz	Adverb	Adverb	_	3	MODIFIER
+2	once	onc	Noun	Noun	A3sg|Pnon|Dat	3	MODIFIER
+3	gittim	git	Verb	Verb	Pos|Past|A1sg	0	PREDICATE
+4	.	.	Punc	Punc	_	3	PUNCTUATION
+
+5000:3
+1	Ama	ama	Conj	Conj	_	0	CONJUNCTION
+2	fiyat	fiyat	Noun	Noun	A3sg|Pnon|Nom	3	SUBJECT
+3	değişti	değiş	Verb	Verb	Pos|Past|A3sg	4	OBJECT
+4	olabilir	ol	Verb	Verb	Able|Pos|Aor|A3sg	0	PREDICATE
+5	.	.	Punc	Punc	_	4	PUNCTUATION
+
+5000:4
+1	Serviste	servis	Noun	Noun	A3sg|Pnon|Loc	3	MODIFIER
+2	çok	çok	Adverb	Adverb	_	3	DETERMINER
+3	guzel	guzel	Noun	Noun	A3sg|Pnon|Nom	0	PREDICATE
+4	.	.	Punc	Punc	_	3	PUNCTUATION
+
+5000:5
+1	Ortam	ortam	Noun	Noun	A3sg|Pnon|Nom	3	SUBJECT
+2	çok	çok	Adverb	Adverb	_	3	DETERMINER
+3	guzel	guzel	Noun	Noun	A3sg|Pnon|Nom	0	PREDICATE
+4	.	.	Punc	Punc	_	3	PUNCTUATION
+
+5000:6
+1	_	lezzetli	Adverb	Adverb	_	2	DERIV
+2	Lezzetliydi	_	Verb	Zero	Past|A3sg	0	PREDICATE
+3	.	.	Punc	Punc	_	2	PUNCTUATION
+
+5001:0
+1	En	en	Adverb	Adverb	_	2	MODIFIER
+2	_	beğen	Verb	Verb	Pos	3	DERIV
+3	beğendiğimiz	_	Adj	PastPart	P1pl	5	MODIFIER
+4	sushico	sushico	Noun	Noun	A3sg|Pnon|Nom	5	POSSESSOR
+5	şubesi	şube	Noun	Noun	A3sg|P3sg|Nom	0	PREDICATE
+6	.	.	Punc	Punc	_	5	PUNCTUATION
+
+5001:1
+1	Bahçesi	bahçe	Noun	Noun	A3sg|P3sg|Nom	5	SUBJECT
+2	çok	çok	Adverb	Adverb	_	3	DETERMINER
+3	güzel	güzel	Adj	Adj	_	5	COORDINATION
+4	ve	ve	Conj	Conj	_	3	CONJUNCTION
+5	ferah	ferah	Adj	Adj	_	0	PREDICATE
+6	.	.	Punc	Punc	_	5	PUNCTUATION
+
+5001:2
+1	Sushi	Sushi	Noun	Prop	A3sg|Pnon|Nom	2	POSSESSOR
+2	ustası	usta	Noun	NAdj	A3sg|P3sg|Nom	6	SUBJECT
+3	çok	çok	Adverb	Adverb	_	4	MODIFIER
+4	becerikli	becerikli	Adj	Adj	_	6	COORDINATION
+5	ve	ve	Conj	Conj	_	4	CONJUNCTION
+6	şakacı	şakacı	Noun	Noun	A3sg|Pnon|Nom	0	PREDICATE
+7	:	:	Punc	Punc	_	6	PUNCTUATION
+
+5001:3
+1	)	)	Punc	Punc	_	0	PUNCTUATION
+2	yoğun	yoğun	Adj	Adj	_	3	MODIFIER
+3	_	öl	Verb	Verb	Pos	4	DERIV
+4	öldüğü	_	Adj	PastPart	P3sg	5	MODIFIER
+5	saatlerde	saat	Noun	Noun	A3pl|Pnon|Loc	9	MODIFIER
+6	servis	servis	Noun	Noun	A3sg|Pnon|Nom	9	SUBJECT
+7	biraz	biraz	Adverb	Adverb	_	8	MODIFIER
+8	aksak	aksak	Adj	Adj	_	9	MODIFIER
+9	olsa	ol	Verb	Verb	Pos|Desr|A3sg	0	ROOT
+10	da	da	Conj	Conj	_	9	INTENSIFIER
+11	kabul	kabul	Noun	Noun	A3sg|Pnon|Nom	12	MWE
+12	edilebilir	et	Verb	Verb	Pass|Able|Pos|Aor|A3sg	0	ROOT
+13	buluyoruz	bul	Verb	Verb	Pos|Prog1|A1pl	12	MODIFIER
+
+5002:0
+1	Menü	menü	Noun	Noun	A3sg|Pnon|Nom	2	POSSESSOR
+2	çeşitleri	çeşit	Noun	Noun	A3pl|P3sg|Nom	3	SUBJECT
+3	zengin	zengin	Adj	Adj	_	0	PREDICATE
+4	.	.	Punc	Punc	_	3	PUNCTUATION
+
+5002:1
+1	Fiyatları	fiyat	Noun	Noun	A3pl|Pnon|Acc	15	OBJECT
+2	normalin	normal	Noun	NAdj	A3sg|Pnon|Gen	4	POSSESSOR
+3	biraz	biraz	Adverb	Adverb	_	4	MODIFIER
+4	üstünde	üst	Noun	NAdj	A3sg|P3sg|Loc	15	MODIFIER
+5	ama	ama	Conj	Conj	_	4	CONJUNCTION
+6	yinede	yined	Noun	Noun	A3sg|Pnon|Dat	10	MODIFIER
+7	_	cadde	Noun	Noun	A3sg|Pnon|Loc	8	DERIV
+8	caddedeki	_	Adj	Rel	_	9	MODIFIER
+9	yorgunluğu	yorgunluk	Noun	Noun	A3sg|Pnon|Acc	10	OBJECT
+10	_	at	Verb	Verb	Pos	11	DERIV
+11	atmanız	_	Noun	Inf2	A3sg|P2pl|Nom	12	ARGUMENT
+12	için	için	Postp	PCNom	_	15	MODIFIER
+13	ferah	ferah	Adj	Adj	_	14	MWE
+14	ferah	ferah	Adj	Adj	_	15	MODIFIER
+15	_	otur	Verb	Verb	Able|Pos	16	DERIV
+16	oturabileceğiniz	_	Adj	FutPart	P2pl	17	MODIFIER
+17	mekan	mekân	Noun	Noun	A3sg|Pnon|Nom	0	PREDICATE
+18	.	.	Punc	Punc	_	17	PUNCTUATION
+
+5003:0
+1	Muhallebici	muhallebici	Noun	Noun	A3sg|Pnon|Nom	0	PREDICATE
+2	ama	ama	Conj	Conj	_	1	CONJUNCTION
+3	...	...	Punc	Punc	_	2	PUNCTUATION
+
+5003:1
+1	-	-	Punc	Punc	_	0	PUNCTUATION
+2	Herkesin	herkes	Pron	Quant	A3pl|Pnon|Gen	13	MODIFIER
+3	muhallebisini	muhallebi	Noun	Noun	A3sg|P3sg|Acc	9	COORDINATION
+4	ya	ya	Conj	Conj	_	5	MWE
+5	da	da	Conj	Conj	_	3	MWE
+6	süt	süt	Noun	Noun	A3sg|Pnon|Nom	9	POSSESSOR
+7	tatlıları	tatlı	Noun	NAdj	A3pl|Pnon|Acc	8	OBJECT
+8	_	ye	Verb	Verb	Pos	9	DERIV
+9	yediği	_	Adj	PastPart	P3sg	10	MODIFIER
+10	yerin	yer	Noun	Noun	A3sg|Pnon|Gen	13	MODIFIER
+11	ben	ben	Pron	Pers	A1sg|Pnon|Nom	12	POSSESSOR
+12	künefesini	künefe	Noun	Noun	A3sg|P3sg|Acc	13	OBJECT
+13	beğeniyorum	beğen	Verb	Verb	Pos|Prog1|A1sg	0	PREDICATE
+14	.	.	Punc	Punc	_	13	PUNCTUATION
+
+5003:2
+1	Geçen	geçen	Adj	Adj	_	2	MODIFIER
+2	sene	sene	Noun	Noun	A3sg|Pnon|Nom	3	MODIFIER
+3	haftada	hafta	Noun	Noun	A3sg|Pnon|Loc	7	MODIFIER
+4	bir	bir	Adj	Num	_	5	DETERMINER
+5	künefe	künefe	Noun	Noun	A3sg|Pnon|Nom	7	MODIFIER
+6	yemege	yemeg	Noun	Noun	A3sg|Pnon|Dat	7	MODIFIER
+7	giderdim	git	Verb	Verb	Pos|Aor|Past|A1sg	0	PREDICATE
+8	.	.	Punc	Punc	_	7	PUNCTUATION
+
+5004:0
+1	Favorilerim	favori	Noun	NAdj	A3pl|P1sg|Nom	12	SUBJECT
+2	bıçak	bıçak	Noun	Noun	A3sg|Pnon|Nom	3	POSSESSOR
+3	arası	ara	Noun	NAdj	A3sg|P3sg|Nom	6	COORDINATION
+4	ve	ve	Conj	Conj	_	3	CONJUNCTION
+5	saç	saç	Noun	Noun	A3sg|Pnon|Nom	6	POSSESSOR
+6	arası	ara	Noun	NAdj	A3sg|P3sg|Nom	9	COORDINATION
+7	ama	ama	Conj	Conj	_	6	CONJUNCTION
+8	tavuk	tavuk	Noun	Noun	A3sg|Pnon|Nom	9	MWE
+9	sis	sis	Noun	Noun	A3sg|Pnon|Nom	11	COORDINATION
+10	ve	ve	Conj	Conj	_	9	CONJUNCTION
+11	diger	diger	Noun	Noun	A3sg|Pnon|Nom	12	MODIFIER
+12	ekmeklerde	ekmek	Noun	Noun	A3pl|Pnon|Loc	0	ROOT
+13	(	(	Punc	Punc	_	12	PUNCTUATION
+14	_	kaşar	Noun	Noun	A3sg|Pnon|Nom	15	DERIV
+15	kaşarlı	_	Adj	With	_	17	COORDINATION
+16	ve	ve	Conj	Conj	_	15	CONJUNCTION
+17	kıymalı	kıy	Verb	Verb	Pos|Neces|A3sg	0	ROOT
+18	)	)	Punc	Punc	_	17	PUNCTUATION
+19	çok	çok	Adverb	Adverb	_	20	DETERMINER
+20	basarili	basaril	Noun	Noun	A3sg|Pnon|Acc	17	OBJECT
+21	.	.	Punc	Punc	_	20	PUNCTUATION
+
+5004:1
+1	Konyada	Konyada	Noun	Prop	A3sg|Pnon|Nom	2	MWE
+2	yemedim	ye	Verb	Verb	Neg|Past|A1sg	10	COORDINATION
+3	ama	ama	Conj	Conj	_	2	CONJUNCTION
+4	_	ye	Verb	Verb	Pos	5	DERIV
+5	_	_	Adj	PresPart	_	6	DERIV
+6	yiyenlerinde	_	Noun	Zero	A3pl|P3pl|Loc	7	MODIFIER
+7	_	beğen	Verb	Verb	Pos	8	DERIV
+8	beğendiği	_	Adj	PastPart	P3sg	10	MODIFIER
+9	bir	bir	Adj	Num	_	10	DETERMINER
+10	mekan	mekân	Noun	Noun	A3sg|Pnon|Nom	0	PREDICATE
+11	.	.	Punc	Punc	_	10	PUNCTUATION
+
+5005:0
+1	Servis	servis	Noun	Noun	A3sg|Pnon|Nom	10	SUBJECT
+2	iyi	iyi	Adj	Adj	_	3	MODIFIER
+3	_	ol	Verb	Verb	Neg	4	DERIV
+4	olmadığından	_	Noun	PastPart	A3sg|P3sg|Abl	8	MODIFIER
+5	michelin	michel	Noun	Noun	A3sg|P2sg|Nom	8	SUBJECT
+6	yıldızlı	yıldızlı	Adj	Adj	_	7	MODIFIER
+7	yemek	yemek	Noun	Noun	A3sg|Pnon|Nom	8	OBJECT
+8	yapsalar	yap	Verb	Verb	Pos|Desr|A3pl	10	MODIFIER
+9	gözüme	göz	Noun	Noun	A3sg|P1sg|Dat	10	MODIFIER
+10	görünmüyor	görün	Verb	Verb	Neg|Prog1|A3sg	0	PREDICATE
+11	.	.	Punc	Punc	_	10	PUNCTUATION
+
+5005:1
+1	35	35	Adj	Num	_	2	MODIFIER
+2	derece	derece	Noun	Noun	A3sg|Pnon|Nom	10	MODIFIER
+3	yaz	yaz	Noun	Noun	A3sg|Pnon|Nom	4	POSSESSOR
+4	sıcağında	sıcak	Noun	NAdj	A3sg|P3sg|Loc	10	MODIFIER
+5	buzdolapları	buzdolabı	Noun	Noun	A3pl|Pnon|Nom	10	SUBJECT
+6	bozuk	bozuk	Adj	Adj	_	7	ARGUMENT
+7	diye	diye	Postp	PCNom	_	10	MODIFIER
+8	sıcak	sıcak	Adj	Adj	_	9	MODIFIER
+9	kola	kola	Noun	Noun	A3sg|Pnon|Nom	10	OBJECT
+10	getirdiler	getir	Verb	Verb	Pos|Past|A3pl	0	PREDICATE
+11	bu	bu	Det	Det	_	12	DETERMINER
+12	sefer	sefer	Noun	Noun	A3sg|Pnon|Nom	10	MODIFIER
+13	de	de	Conj	Conj	_	12	INTENSIFIER
+14	.	.	Punc	Punc	_	13	PUNCTUATION
+
+5006:0
+1	Buradan	bura	Noun	Noun	A3sg|Pnon|Abl	2	ARGUMENT
+2	içeri	içeri	Postp	PCAbl	_	3	MODIFIER
+3	girersiniz	gir	Verb	Verb	Pos|Aor|A2pl	24	COORDINATION
+4	_	karşıla	Verb	Verb	Pos	5	DERIV
+5	karşılamasından	_	Noun	Inf2	A3sg|P3sg|Abl	9	MODIFIER
+6	tutunda	tutu	Noun	Noun	A3sg|P2sg|Loc	9	MODIFIER
+7	etten	et	Noun	Noun	A3sg|Pnon|Abl	8	ARGUMENT
+8	önce	önce	Postp	PCAbl	_	9	MODIFIER
+9	_	gel	Verb	Verb	Pos	10	DERIV
+10	gelen	_	Adj	PresPart	_	13	MODIFIER
+11	_	kuver	Noun	Noun	A3sg|Pnon|Loc	12	DERIV
+12	kuverdeki	_	Adj	Rel	_	13	MODIFIER
+13	turşuya	turşu	Noun	Noun	A3sg|Pnon|Dat	14	ARGUMENT
+14	kadar	kadar	Postp	PCDat	_	17	MODIFIER
+15	hepsi	hepsi	Pron	Quant	A3pl|P3pl|Nom	17	SUBJECT
+16	özenle	özen	Noun	Noun	A3sg|Pnon|Ins	17	MODIFIER
+17	seçilmiş	seç	Verb	Verb	Pass|Pos|Narr|A3sg	18	MODIFIER
+18	hazırlanmış	hazırla	Verb	Verb	Pass|Pos|Narr|A3sg	23	MODIFIER
+19	mekanın	mekan	Noun	Noun	A3sg|Pnon|Gen	21	COORDINATION
+20	ve	ve	Conj	Conj	_	19	CONJUNCTION
+21	tatların	tat	Noun	Noun	A3pl|Pnon|Gen	22	POSSESSOR
+22	içinde	iç	Noun	NAdj	A3sg|P3sg|Loc	23	MODIFIER
+23	gezer	gez	Verb	Verb	Pos|Aor|A3sg	24	MODIFIER
+24	durursunuz	dur	Verb	Verb	Pos|Aor|A2pl	0	PREDICATE
+25	.	.	Punc	Punc	_	24	PUNCTUATION
+
+5006:1
+1	Et	et	Noun	Noun	A3sg|Pnon|Nom	2	POSSESSOR
+2	menüsünden	menü	Noun	Noun	A3sg|P3sg|Abl	3	MODIFIER
+3	_	iste	Verb	Verb	Pos	4	DERIV
+4	istediğinizi	_	Noun	PastPart	A3sg|P2pl|Acc	5	OBJECT
+5	seçebilirsiniz	seç	Verb	Verb	Able|Pos|Aor|A2pl	0	PREDICATE
+6	hepsi	hepsi	Pron	Quant	A3pl|P3pl|Nom	8	MODIFIER
+7	_	ol	Verb	Verb	Able|Pos	8	DERIV
+8	olabileceğinin	_	Noun	FutPart	A3sg|P2sg|Gen	11	POSSESSOR
+9	en	en	Adverb	Adverb	_	10	MODIFIER
+10	_	iyi	Noun	NAdj	A3sg|P3sg|Nom	11	DERIV
+11	iyisidir	_	Verb	Zero	Pres|A3sg|Cop	5	MODIFIER
+12	.	.	Punc	Punc	_	11	PUNCTUATION
+
+5006:2
+1	Tatlılar	tatlı	Noun	NAdj	A3pl|Pnon|Nom	7	SUBJECT
+2	da	da	Conj	Conj	_	1	INTENSIFIER
+3	bir	bir	Adverb	Adverb	_	7	DETERMINER
+4	o	o	Det	Det	_	5	ARGUMENT
+5	kadar	kadar	Postp	PCNom	_	7	MODIFIER
+6	_	harika	Noun	NAdj	A3sg|Pnon|Nom	7	DERIV
+7	harikadır	_	Verb	Zero	Pres|A3sg|Cop	0	PREDICATE
+8	.	.	Punc	Punc	_	7	PUNCTUATION
+
+5006:3
+1	Mekanın	mekan	Noun	Noun	A3sg|Pnon|Gen	2	POSSESSOR
+2	sahibi	sahip	Noun	Noun	A3sg|P3sg|Nom	3	POSSESSOR
+3	Beyti	beyit	Noun	Noun	A3sg|P3sg|Nom	13	MODIFIER
+4	Bey	Bey	Noun	Prop	A3sg|Pnon|Nom	13	SUBJECT
+5	her	her	Det	Det	_	6	DETERMINER
+6	oraya	ora	Noun	Noun	A3sg|Pnon|Dat	7	MODIFIER
+7	_	git	Verb	Verb	Pos	8	DERIV
+8	gidişinizde	_	Noun	Inf3	A3sg|P2pl|Loc	10	MODIFIER
+9	masanıza	masa	Noun	Noun	A3sg|P2pl|Dat	10	MODIFIER
+10	_	uğra	Verb	Verb	Pos	11	DERIV
+11	uğrayıp	_	Adverb	AfterDoingSo	_	13	MODIFIER
+12	selam	selam	Noun	Noun	A3sg|Pnon|Nom	13	MWE
+13	verir	ver	Verb	Verb	Pos|Aor|A3sg	0	PREDICATE
+14	.	.	Punc	Punc	_	13	PUNCTUATION
+
+5006:4
+1	Söylenecek	söyle	Verb	Verb	Pass|Pos|Fut|A3sg	11	COORDINATION
+2	daha	daha	Adverb	Adverb	_	5	MODIFIER
+3	da	da	Conj	Conj	_	2	INTENSIFIER
+4	birşey	birşey	Noun	Noun	A3sg|Pnon|Nom	5	MWE
+5	yok	yok	Adj	Adj	_	6	MODIFIER
+6	kesinlikle	kesinlik	Noun	Noun	A3sg|Pnon|Ins	9	MODIFIER
+7	güzel	güzel	Adj	Adj	_	8	MODIFIER
+8	yemek	yemek	Noun	Noun	A3sg|Pnon|Nom	9	MWE
+9	_	ye	Verb	Verb	Pos	10	DERIV
+10	yemek	_	Noun	Inf1	A3sg|Pnon|Nom	11	OBJECT
+11	istiyor	iste	Verb	Verb	Pos|Prog1|A3sg	16	COORDINATION
+12	ve	ve	Conj	Conj	_	11	CONJUNCTION
+13	risk	risk	Noun	Noun	A3sg|Pnon|Nom	14	MWE
+14	_	al	Verb	Verb	Pos	15	DERIV
+15	almak	_	Noun	Inf1	A3sg|Pnon|Nom	16	OBJECT
+16	istemiyorsanız	iste	Verb	Verb	Neg|Prog1|Cond|A2pl	18	MODIFIER
+17	bana	ben	Pron	Pers	A1sg|Pnon|Dat	18	MODIFIER
+18	kalırsa	kal	Verb	Verb	Pos|Aor|Cond|A3sg	23	MODIFIER
+19	Beyti	beyit	Noun	Noun	A3sg|Pnon|Acc	23	OBJECT
+20	'den	'den	?	?	_	21	MODIFIER
+21	iyisi	iyi	Noun	NAdj	A3sg|P3sg|Nom	23	SUBJECT
+22	_	yok	Noun	NAdj	A3sg|Pnon|Nom	23	DERIV
+23	yoktur	_	Verb	Zero	Pres|A3sg|Cop	0	PREDICATE
+24	!	!	Punc	Punc	_	23	PUNCTUATION
+
+5006:5
+1	Özellikle	özellikle	Adverb	Adverb	_	4	MODIFIER
+2	yabancı	yabancı	Adj	Adj	_	3	MODIFIER
+3	misafirlerinizi	misafir	Noun	Noun	A3pl|P2pl|Acc	4	OBJECT
+4	_	ağırla	Verb	Verb	Pos	5	DERIV
+5	ağırlamak	_	Noun	Inf1	A3sg|Pnon|Nom	6	ARGUMENT
+6	için	için	Postp	PCNom	_	12	MODIFIER
+7	osmanlı	osmanlı	Noun	Noun	A3sg|Pnon|Nom	8	POSSESSOR
+8	tarzı	tarz	Noun	Noun	A3sg|P3sg|Nom	9	POSSESSOR
+9	dekorasyonu	dekorasyon	Noun	Noun	A3sg|P3sg|Nom	12	SUBJECT
+10	ve	ve	Conj	Conj	_	9	CONJUNCTION
+11	akıl	akıl	Noun	Noun	A3sg|Pnon|Nom	12	MWE
+12	almaz	al	Verb	Verb	Neg|Aor|A3sg	0	PREDICATE
+13	lezzetleri	lezzet	Noun	Noun	A3pl|Pnon|Acc	21	OBJECT
+14	sayesinde	saye	Noun	Noun	A3sg|P3sg|Loc	21	MODIFIER
+15	türk	türk	Noun	Noun	A3sg|Pnon|Nom	16	POSSESSOR
+16	mutfağını	mutfak	Noun	Noun	A3sg|P3sg|Acc	17	OBJECT
+17	_	tanı	Verb	Verb	Caus|Pos	18	DERIV
+18	tanıtmak	_	Noun	Inf1	A3sg|Pnon|Nom	19	ARGUMENT
+19	için	için	Postp	PCNom	_	21	MODIFIER
+20	çok	çok	Adverb	Adverb	_	21	MODIFIER
+21	uygun	uygun	Adj	Adj	_	12	MODIFIER
+22	...	...	Punc	Punc	_	21	PUNCTUATION
+
+5007:0
+1	Servis	servis	Noun	Noun	A3sg|Pnon|Nom	2	POSSESSOR
+2	kotu	kot	Noun	NAdj	A3sg|P3sg|Nom	9	COORDINATION
+3	,	,	Punc	Punc	_	2	PUNCTUATION
+4	mekan	mekân	Noun	Noun	A3sg|Pnon|Nom	9	SUBJECT
+5	fazla	fazla	Adverb	Adverb	_	9	MODIFIER
+6	aydinlik	aydinlik	Noun	Noun	A3sg|Pnon|Nom	9	COORDINATION
+7	ve	ve	Conj	Conj	_	6	CONJUNCTION
+8	_	gurultu	Noun	Noun	A3sg|Pnon|Nom	9	DERIV
+9	gurultulu	_	Adj	With	_	0	PREDICATE
+10	.	.	Punc	Punc	_	9	PUNCTUATION
+
+5007:1
+1	Garsonların	garson	Noun	Noun	A3pl|Pnon|Gen	2	POSSESSOR
+2	ilgisizliği	ilgisizlik	Noun	Noun	A3sg|P3sg|Nom	3	POSSESSOR
+3	çabası	çaba	Noun	Noun	A3sg|P3sg|Nom	0	PREDICATE
+4	.	.	Punc	Punc	_	3	PUNCTUATION
+
+5007:2
+1	Yemekler	yemek	Noun	Noun	A3pl|Pnon|Nom	5	SUBJECT
+2	soğuk	soğuk	Adj	Adj	_	4	COORDINATION
+3	ve	ve	Conj	Conj	_	2	CONJUNCTION
+4	geç	geç	Adverb	Adverb	_	5	MODIFIER
+5	geliyor	gel	Verb	Verb	Pos|Prog1|A3sg	0	PREDICATE
+6	.	.	Punc	Punc	_	5	PUNCTUATION
+
+5007:3
+1	Tek	tek	Adj	Adj	_	2	MODIFIER
+2	güzelliği	güzellik	Noun	Noun	A3sg|Pnon|Acc	0	PREDICATE
+3	Marina	marina	Noun	Noun	A3sg|Pnon|Nom	4	POSSESSOR
+4	manzarası	manzara	Noun	Noun	A3sg|P3sg|Nom	2	SUBJECT
+5	.	.	Punc	Punc	_	4	PUNCTUATION
+
+5007:4
+1	Bide	bide	Noun	Noun	A3sg|Pnon|Nom	8	SUBJECT
+2	Çikolatalı	çikolatalı	Adj	Adj	_	4	MODIFIER
+3	Karayip	Karayip	Noun	Prop	A3sg|Pnon|Nom	4	POSSESSOR
+4	katlarını	kat	Noun	Noun	A3pl|P3sg|Acc	6	OBJECT
+5	met	met	Noun	Noun	A3sg|Pnon|Nom	6	MWE
+6	_	et	Verb	Verb	Pos	7	DERIV
+7	etmeden	_	Adverb	WithoutHavingDoneSo	_	8	MODIFIER
+8	yapamiycam	yapamiycam	Noun	Noun	A3sg|Pnon|Nom	0	PREDICATE
+9	.	.	Punc	Punc	_	8	PUNCTUATION
+
+5008:0
+1	İstikrarlı	istikrarlı	Noun	NAdj	A3sg|Pnon|Nom	0	PREDICATE
+2	.	.	Punc	Punc	_	1	PUNCTUATION
+
+5008:1
+1	-	-	Punc	Punc	_	0	PUNCTUATION
+2	Her	her	Det	Det	_	4	DETERMINER
+3	_	git	Verb	Verb	Pos	4	DERIV
+4	gittiğimde	_	Noun	PastPart	A3sg|P1sg|Loc	16	MODIFIER
+5	bir	bir	Adj	Num	_	6	DETERMINER
+6	_	önce	Noun	Noun	A3sg|Pnon|Nom	7	DERIV
+7	öncekinden	_	Pron	Rel	A3sg|P2sg|Abl	10	MODIFIER
+8	daha	daha	Adverb	Adverb	_	9	MODIFIER
+9	kötü	kötü	Adj	Adj	_	10	MODIFIER
+10	susi	sus	Noun	Noun	A3sg|Pnon|Acc	11	OBJECT
+11	_	yap	Verb	Verb	Pos	12	DERIV
+12	yapmayı	_	Noun	Inf2	A3sg|Pnon|Acc	14	OBJECT
+13	nasil	nasil	Noun	Noun	A3sg|Pnon|Nom	14	MWE
+14	_	yap	Verb	Verb	Pos	15	DERIV
+15	yapmayı	_	Noun	Inf2	A3sg|Pnon|Acc	16	OBJECT
+16	beceriyorlar	becer	Verb	Verb	Pos|Prog1|A3pl	0	PREDICATE
+17	?	?	Punc	Punc	_	16	PUNCTUATION
+
+5009:0
+1	So	So	?	?	_	13	MODIFIER
+2	so	so	?	?	_	13	MODIFIER
+3	-	-	Punc	Punc	_	2	PUNCTUATION
+4	Çok	çok	Adverb	Adverb	_	6	DETERMINER
+5	bir	bir	Adj	Num	_	6	MWE
+6	şey	şey	Noun	Noun	A3sg|Pnon|Nom	7	OBJECT
+7	beklemeyin	bekle	Verb	Verb	Neg|Imp|A2pl	13	COORDINATION
+8	,	,	Punc	Punc	_	7	PUNCTUATION
+9	Quick	Quick	Noun	Noun	A3sg|Pnon|Nom	13	MODIFIER
+10	China	China	Noun	Prop	A3sg|Pnon|Nom	11	ARGUMENT
+11	kadar	kadar	Postp	PCNom	_	13	MODIFIER
+12	iyi	iyi	Adj	Adj	_	13	MODIFIER
+13	degil	degil	Noun	Noun	A3sg|Pnon|Nom	0	PREDICATE
+14	.	.	Punc	Punc	_	13	PUNCTUATION
+
+5009:1
+1	Bu	bu	Det	Det	_	2	DETERMINER
+2	akimin	akim	Noun	NAdj	A3sg|Pnon|Gen	3	POSSESSOR
+3	öncülerinden	öncü	Noun	Noun	A3pl|P3sg|Abl	11	MODIFIER
+4	;	;	Punc	Punc	_	3	PUNCTUATION
+5	ancak	ancak	Conj	Conj	_	3	CONJUNCTION
+6	Quick	Quick	Noun	Noun	A3sg|Pnon|Nom	7	MWE
+7	China	China	Noun	Prop	A3sg|Pnon|Nom	11	SUBJECT
+8	bence	ben	Pron	Pers	A1sg|Pnon|Equ	11	MODIFIER
+9	Sushico	Sushico	Noun	Prop	A3sg|Pnon|Nom	11	SUBJECT
+10	'yu	'yu	?	?	_	11	MODIFIER
+11	solladı	solla	Verb	Verb	Pos|Past|A3sg	0	PREDICATE
+12	.	.	Punc	Punc	_	11	PUNCTUATION
+
+5009:2
+1	Sushiler	Sushiler	Noun	Prop	A3sg|Pnon|Nom	3	SUBJECT
+2	gene	gene	Adverb	Adverb	_	3	MODIFIER
+3	basarili	basarili	Noun	Noun	A3sg|Pnon|Nom	9	COORDINATION
+4	;	;	Punc	Punc	_	3	PUNCTUATION
+5	ama	ama	Conj	Conj	_	3	CONJUNCTION
+6	yemekler	yemek	Noun	Noun	A3pl|Pnon|Nom	9	SUBJECT
+7	ciddi	ciddi	Adj	Adj	_	8	MODIFIER
+8	anlamda	anlam	Noun	Noun	A3sg|Pnon|Loc	9	MODIFIER
+9	bozuldu	boz	Verb	Verb	Pass|Pos|Past|A3sg	0	PREDICATE
+10	.	.	Punc	Punc	_	9	PUNCTUATION
+
+5009:3
+1	Sanirim	Sanirim	Noun	Prop	A3sg|Pnon|Nom	4	SUBJECT
+2	ahçı	ahçı	Noun	Noun	A3sg|Pnon|Nom	3	MWE
+3	isten	is	Noun	Noun	A3sg|Pnon|Abl	4	MODIFIER
+4	ayrıldı	ayrıl	Verb	Verb	Pos|Past|A3sg	0	PREDICATE
+5	.	.	Punc	Punc	_	4	PUNCTUATION
+
+5010:0
+1	Çok	çok	Adverb	Adverb	_	2	DETERMINER
+2	guzel	guzel	Noun	Noun	A3sg|Pnon|Nom	0	ROOT
+3	hepsi	hepsi	Pron	Quant	A3pl|P3pl|Nom	9	SUBJECT
+4	birbirinden	birbiri	Pron	Quant	A3sg|P3sg|Abl	9	MODIFIER
+5	guzel	guzel	Noun	Noun	A3sg|Pnon|Nom	6	MWE
+6	yemeklerinizz	yemeklerinizz	Noun	Noun	A3sg|Pnon|Nom	9	COORDINATION
+7	ve	ve	Conj	Conj	_	6	CONJUNCTION
+8	lezzetli	lezzetli	Adj	Adj	_	9	MODIFIER
+9	sonrasında	sonra	Noun	Noun	A3sg|P3sg|Loc	0	ROOT
+10	.	.	Punc	Punc	_	9	PUNCTUATION
+
+5010:1
+1	Garsonların	garson	Noun	Noun	A3pl|Pnon|Gen	7	POSSESSOR
+2	servis	servis	Noun	Noun	A3sg|Pnon|Nom	3	POSSESSOR
+3	sunumunda	sunum	Noun	Noun	A3sg|P3sg|Loc	7	MODIFIER
+4	hersey	hersey	Noun	Noun	A3sg|Pnon|Nom	7	SUBJECT
+5	dört	dört	Adj	Num	_	6	MWE
+6	dört	dört	Adj	Num	_	7	MODIFIER
+7	lük	lük	Noun	Noun	A3sg|Pnon|Nom	0	PREDICATE
+8	.	.	Punc	Punc	_	7	PUNCTUATION
+
+5010:2
+1	Tesekkur	Tesekkur	Noun	Prop	A3sg|Pnon|Nom	2	MWE
+2	ediyorum	et	Verb	Verb	Pos|Prog1|A1sg	0	PREDICATE
+3	.	.	Punc	Punc	_	2	PUNCTUATION
+
+5010:3
+1	Çalışanlara	çalışan	Noun	Noun	A3pl|Pnon|Dat	3	COORDINATION
+2	ve	ve	Conj	Conj	_	1	CONJUNCTION
+3	sizlere	siz	Pron	Pers	A2pl|Pnon|Dat	0	PREDICATE
+4	.	.	Punc	Punc	_	3	PUNCTUATION
+
+5010:4
+1	Cem	Cem	Noun	Prop	A3sg|Pnon|Nom	0	PREDICATE
+2	Boyraz	Boyraz	Noun	Prop	A3sg|Pnon|Nom	1	SUBJECT
+
+5011:0
+1	Tavsiye	tavsiye	Noun	Noun	A3sg|Pnon|Nom	2	MWE
+2	bıçak	bıçak	Noun	Noun	A3sg|Pnon|Nom	3	MWE
+3	arası	ara	Noun	NAdj	A3sg|P3sg|Nom	5	MWE
+4	_	ye	Verb	Verb	Pos	5	DERIV
+5	yemeniz	_	Noun	Inf2	A3sg|P2pl|Nom	0	PREDICATE
+6	.	.	Punc	Punc	_	5	PUNCTUATION
+
+5011:1
+1	Masanın	masa	Noun	Noun	A3sg|Pnon|Gen	3	POSSESSOR
+2	bir	bir	Adj	Num	_	3	DETERMINER
+3	ucundan	uç	Noun	Noun	A3sg|P3sg|Abl	15	MODIFIER
+4	diger	diger	Noun	Noun	A3sg|Pnon|Nom	5	POSSESSOR
+5	ucuna	uç	Noun	Noun	A3sg|P3sg|Dat	6	ARGUMENT
+6	kadar	kadar	Postp	PCDat	_	15	MODIFIER
+7	uzaniyir	uzaniyir	Noun	Noun	A3sg|Pnon|Nom	15	SUBJECT
+8	konya	konya	Noun	Noun	A3sg|Pnon|Nom	9	POSSESSOR
+9	mutfağından	mutfak	Noun	Noun	A3sg|P3sg|Abl	12	MODIFIER
+10	farklı	farklı	Adj	Adj	_	11	MODIFIER
+11	lezzetler	lezzet	Noun	Noun	A3pl|Pnon|Nom	12	OBJECT
+12	deneyin	dene	Verb	Verb	Pos|Imp|A2pl	15	MODIFIER
+13	fiyatlar	fiyat	Noun	Noun	A3pl|Pnon|Nom	15	SUBJECT
+14	uygun	uygun	Adj	Adj	_	15	MODIFIER
+15	geldi	gel	Verb	Verb	Pos|Past|A3sg	0	PREDICATE
+16	.	.	Punc	Punc	_	15	PUNCTUATION
+
+5012:0
+1	Çikolatalı	çikolatalı	Adj	Adj	_	2	MODIFIER
+2	Saray	saray	Noun	Noun	A3sg|Pnon|Nom	3	POSSESSOR
+3	muhallebisi	muhallebi	Noun	Noun	A3sg|P3sg|Nom	11	SUBJECT
+4	,	,	Punc	Punc	_	3	PUNCTUATION
+5	krem	krem	Adj	Adj	_	6	MODIFIER
+6	karamel	karamel	Noun	Noun	A3sg|Pnon|Nom	8	COORDINATION
+7	ve	ve	Conj	Conj	_	6	CONJUNCTION
+8	ayva	ayva	Noun	Noun	A3sg|Pnon|Nom	9	POSSESSOR
+9	tatlısından	tatlı	Noun	NAdj	A3sg|P3sg|Abl	11	MODIFIER
+10	tabaklarca	tabak	Noun	Noun	A3pl|Pnon|Equ	11	MODIFIER
+11	yiyebilirim	ye	Verb	Verb	Able|Pos|Aor|A1sg	0	PREDICATE
+12	.	.	Punc	Punc	_	11	PUNCTUATION
+
+5012:1
+1	Bu	bu	Det	Det	_	2	DETERMINER
+2	konuda	konu	Noun	Noun	A3sg|Pnon|Loc	9	MODIFIER
+3	onların	o	Pron	Pers	A3pl|Pnon|Gen	4	POSSESSOR
+4	eline	el	Noun	Noun	A3sg|P3sg|Dat	9	MODIFIER
+5	kolay	kolay	Adj	Adj	_	6	MODIFIER
+6	kolay	kolay	Adj	Adj	_	8	MODIFIER
+7	kimse	kimse	Pron	Quant	A3sg|Pnon|Nom	8	MODIFIER
+8	su	su	Noun	Noun	A3sg|Pnon|Nom	9	SUBJECT
+9	süremez	sür	Verb	Verb	Able|Neg|Aor|A3sg	0	PREDICATE
+10	.	.	Punc	Punc	_	9	PUNCTUATION
+
+5012:2
+1	Çok	çok	Adverb	Adverb	_	2	DETERMINER
+2	açsanız	aç	Verb	Verb	Pos|Desr|A2pl	8	MODIFIER
+3	pilav	pilav	Noun	Noun	A3sg|Pnon|Nom	4	MWE
+4	üstü	üst	Noun	NAdj	A3sg|P3sg|Nom	5	MWE
+5	döneri	döner	Noun	NAdj	A3sg|P3sg|Nom	8	MODIFIER
+6	deneminizi	deneminizi	Noun	Noun	A3sg|Pnon|Nom	8	OBJECT
+7	tavsiye	tavsiye	Noun	Noun	A3sg|Pnon|Nom	8	MWE
+8	ederim	et	Verb	Verb	Pos|Aor|A1sg	0	PREDICATE
+9	.	.	Punc	Punc	_	8	PUNCTUATION
+
+5013:0
+1	Sadece	sadece	Adverb	Adverb	_	4	MODIFIER
+2	teras	teras	Noun	Noun	A3sg|Pnon|Nom	3	POSSESSOR
+3	katı	kat	Noun	Noun	A3sg|P3sg|Nom	4	SUBJECT
+4	oturulabilir	otur	Verb	Verb	Pass|Able|Pos|Aor|A3sg	0	PREDICATE
+5	_	ol	Verb	Verb	Pos	6	DERIV
+6	olan	_	Adj	PresPart	_	8	MODIFIER
+7	bi	bi	?	?	_	8	MODIFIER
+8	şubesi	şube	Noun	Noun	A3sg|P3sg|Nom	4	SUBJECT
+9	.	.	Punc	Punc	_	8	PUNCTUATION
+
+5013:1
+1	Diğer	diğer	Adj	Adj	_	2	MODIFIER
+2	katlara	kat	Noun	Noun	A3pl|Pnon|Dat	6	MODIFIER
+3	pekte	pekt	Noun	Noun	A3sg|Pnon|Dat	6	MODIFIER
+4	gerek	gerek	Conj	Conj	_	3	CONJUNCTION
+5	_	yok	Noun	NAdj	A3sg|Pnon|Nom	6	DERIV
+6	yokmuş	_	Verb	Zero	Narr|A3sg	0	PREDICATE
+7	.	.	Punc	Punc	_	6	PUNCTUATION
+
+5013:2
+1	Çalışanlar	çalışan	Noun	Noun	A3pl|Pnon|Nom	5	SUBJECT
+2	oldukça	oldukça	Adverb	Adverb	_	3	MODIFIER
+3	ilgili	ilgili	Adj	Adj	_	5	MODIFIER
+4	_	alaka	Noun	Noun	A3sg|Pnon|Nom	5	DERIV
+5	alakalı	_	Adj	With	_	0	PREDICATE
+6	.	.	Punc	Punc	_	5	PUNCTUATION
+
+5013:3
+1	fiyatlar	fiyat	Noun	Noun	A3pl|Pnon|Nom	4	SUBJECT
+2	aynı	aynı	Adj	Adj	_	4	COORDINATION
+3	yani	yani	Conj	Conj	_	2	CONJUNCTION
+4	normal	normal	Adj	Adj	_	0	PREDICATE
+5	.	.	Punc	Punc	_	4	PUNCTUATION
+
+5013:4
+1	teras	teras	Noun	Noun	A3sg|Pnon|Nom	2	POSSESSOR
+2	katında	kat	Noun	Noun	A3sg|P3sg|Loc	7	MODIFIER
+3	tatlınızı	tatlı	Noun	NAdj	A3sg|P2pl|Acc	5	OBJECT
+4	_	ye	Verb	Verb	Pos	5	DERIV
+5	yiyip	_	Adverb	AfterDoingSo	_	7	MODIFIER
+6	çayınızı	çay	Noun	Noun	A3sg|P2pl|Acc	7	OBJECT
+7	yudumlayabilirsiniz	yudumla	Verb	Verb	Able|Pos|Aor|A2pl	0	PREDICATE
+8	.	.	Punc	Punc	_	7	PUNCTUATION
+
+5014:0
+1	_	dene	Verb	Verb	Pos	2	DERIV
+2	Denemek	_	Noun	Inf1	A3sg|Pnon|Nom	11	OBJECT
+3	lazım	lazım	Adj	Adj	_	11	MODIFIER
+4	-	-	Punc	Punc	_	3	PUNCTUATION
+5	Öğle	öğle	Noun	Noun	A3sg|Pnon|Nom	6	POSSESSOR
+6	arasında	ara	Noun	NAdj	A3sg|P3sg|Loc	11	MODIFIER
+7	is	is	Noun	Noun	A3sg|Pnon|Nom	8	POSSESSOR
+8	yerinden	yer	Noun	Noun	A3sg|P3sg|Abl	11	MODIFIER
+9	arkadaslar	arkadaslar	Noun	Noun	A3sg|Pnon|Nom	10	ARGUMENT
+10	ile	ile	Conj	Conj	_	11	MODIFIER
+11	gittik	git	Verb	Verb	Pos|Past|A1pl	0	PREDICATE
+12	.	.	Punc	Punc	_	11	PUNCTUATION
+
+5014:1
+1	Bıçak	bıçak	Noun	Noun	A3sg|Pnon|Nom	2	POSSESSOR
+2	arası	ara	Noun	NAdj	A3sg|P3sg|Nom	0	ROOT
+3	iyi	iyi	Adj	Adj	_	7	COORDINATION
+4	,	,	Punc	Punc	_	3	PUNCTUATION
+5	saç	saç	Noun	Noun	A3sg|Pnon|Nom	6	POSSESSOR
+6	arası	ara	Noun	NAdj	A3sg|P3sg|Nom	7	MODIFIER
+7	mükemmel	mükemmel	Adj	Adj	_	0	ROOT
+8	,	,	Punc	Punc	_	7	PUNCTUATION
+9	garsonlar	garson	Noun	Noun	A3pl|Pnon|Nom	0	ROOT
+10	ilgisiz	ilgisiz	Adj	Adj	_	12	COORDINATION
+11	ve	ve	Conj	Conj	_	10	CONJUNCTION
+12	fiyatlar	fiyat	Noun	Noun	A3pl|Pnon|Nom	0	ROOT
+13	uçmus	uçmus	Noun	Noun	A3sg|Pnon|Nom	12	SUBJECT
+14	.	.	Punc	Punc	_	13	PUNCTUATION
+
+5014:2
+1	Ama	ama	Conj	Conj	_	0	CONJUNCTION
+2	gene	gene	Adverb	Adverb	_	6	MODIFIER
+3	de	de	Conj	Conj	_	2	INTENSIFIER
+4	_	git	Verb	Verb	Pos	5	DERIV
+5	gitmek	_	Noun	Inf1	A3sg|Pnon|Nom	6	OBJECT
+6	lazım	lazım	Adj	Adj	_	0	PREDICATE
+7	.	.	Punc	Punc	_	6	PUNCTUATION
+
+5015:0
+1	_	et	Noun	Noun	A3sg|Pnon|Nom	2	DERIV
+2	Etli	_	Adj	With	_	3	MODIFIER
+3	ekmeğinin	ekmek	Noun	Noun	A3sg|P3sg|Gen	11	POSSESSOR
+4	Konya	Konya	Noun	Prop	A3sg|Pnon|Nom	5	MWE
+5	'daki	'daki	?	?	_	6	MODIFIER
+6	mekanlardan	mekan	Noun	Noun	A3pl|Pnon|Abl	10	MODIFIER
+7	bile	bile	Adverb	Adverb	_	6	INTENSIFIER
+8	daha	daha	Adverb	Adverb	_	9	MODIFIER
+9	lezzetli	lezzetli	Adj	Adj	_	10	MODIFIER
+10	_	ol	Verb	Verb	Pos	11	DERIV
+11	olduğunu	_	Noun	PastPart	A3sg|P3sg|Acc	12	OBJECT
+12	_	düşün	Verb	Verb	Pos	13	DERIV
+13	düşündüğüm	_	Adj	PastPart	P1sg	0	ROOT
+14	mekan/	mekan/	?	?	_	0	ROOT
+15	dı	dı	?	?	_	0	ROOT
+16	.	.	Punc	Punc	_	15	PUNCTUATION
+
+5015:1
+1	Başakşehir	Başakşehir	Noun	Prop	A3sg|Pnon|Nom	2	MWE
+2	şubesi	şube	Noun	Noun	A3sg|P3sg|Nom	9	SUBJECT
+3	_	aç	Verb	Verb	Pass|Pos	4	DERIV
+4	açıldığından	_	Noun	PastPart	A3sg|P3sg|Abl	5	ARGUMENT
+5	beri	beri	Postp	PCAbl	_	9	MODIFIER
+6	o	o	Pron	Demons	A3sg|Pnon|Nom	9	SUBJECT
+7	eski	eski	Adj	Adj	_	9	MODIFIER
+8	Ovalı	ovalı	Adj	Adj	_	9	ARGUMENT
+9	değil	değil	Conj	Conj	_	0	PREDICATE
+10	.	.	Punc	Punc	_	9	PUNCTUATION
+
+5015:2
+1	Başakşehir	Başakşehir	Noun	Prop	A3sg|Pnon|Nom	6	SUBJECT
+2	'deki	'deki	?	?	_	6	MODIFIER
+3	açık	açık	Adj	Adj	_	4	MWE
+4	ara	ara	Noun	NAdj	A3sg|Pnon|Nom	6	MODIFIER
+5	daha	daha	Adverb	Adverb	_	6	MODIFIER
+6	iyi	iyi	Adj	Adj	_	0	PREDICATE
+7	.	.	Punc	Punc	_	6	PUNCTUATION
+
+5016:0
+1	mekanın	mekan	Noun	Noun	A3sg|Pnon|Gen	2	POSSESSOR
+2	yeri	yer	Noun	Noun	A3sg|P3sg|Nom	4	SUBJECT
+3	çok	çok	Adverb	Adverb	_	4	MODIFIER
+4	güzel	güzel	Adj	Adj	_	0	PREDICATE
+5	.	.	Punc	Punc	_	4	PUNCTUATION
+
+5016:1
+1	çalışanları	çalışan	Noun	Noun	A3pl|Pnon|Acc	2	OBJECT
+2	kibar	kibar	Adj	Adj	_	0	PREDICATE
+3	.	.	Punc	Punc	_	2	PUNCTUATION
+
+5016:2
+1	lezzetine	lezzet	Noun	Noun	A3sg|P3sg|Dat	2	MODIFIER
+2	_	güven	Verb	Verb	Able|Pos	3	DERIV
+3	güvenebileceğiniz	_	Adj	FutPart	P2pl	5	MODIFIER
+4	bir	bir	Adj	Num	_	5	DETERMINER
+5	zincir	zincir	Noun	Noun	A3sg|Pnon|Nom	6	SUBJECT
+6	zaten	zaten	Adverb	Adverb	_	0	PREDICATE
+7	.	.	Punc	Punc	_	6	PUNCTUATION
+
+5016:3
+1	deniz	deniz	Noun	Noun	A3sg|Pnon|Nom	2	POSSESSOR
+2	ürünleri	ürün	Noun	Noun	A3pl|P3sg|Nom	3	POSSESSOR
+3	salatası	salata	Noun	Noun	A3sg|P3sg|Nom	5	SUBJECT
+4	çok	çok	Adverb	Adverb	_	5	MODIFIER
+5	lezzetli	lezzetli	Adj	Adj	_	0	PREDICATE
+6	.	.	Punc	Punc	_	5	PUNCTUATION
+
+5016:4
+1	ahtapot	ahtapot	Noun	Noun	A3sg|Pnon|Nom	3	COORDINATION
+2	,	,	Punc	Punc	_	1	PUNCTUATION
+3	karides	karides	Noun	Noun	A3sg|Pnon|Nom	5	COORDINATION
+4	,	,	Punc	Punc	_	3	PUNCTUATION
+5	kalamar	kalamar	Noun	Noun	A3sg|Pnon|Nom	8	COORDINATION
+6	,	,	Punc	Punc	_	5	PUNCTUATION
+7	somon	somon	Noun	Noun	A3sg|Pnon|Nom	8	MWE
+8	füme	füme	Noun	Noun	A3sg|Pnon|Nom	13	SUBJECT
+9	;	;	Punc	Punc	_	8	PUNCTUATION
+10	ne	ne	Pron	Ques	A3sg|Pnon|Nom	11	OBJECT
+11	ararsanız	ara	Verb	Verb	Pos|Aor|Cond|A2pl	13	MODIFIER
+12	var	var	Adj	Adj	_	13	MODIFIER
+13	içinde	iç	Noun	NAdj	A3sg|P3sg|Loc	0	PREDICATE
+14	.	.	Punc	Punc	_	13	PUNCTUATION
+
+5016:5
+1	_	sağlık	Noun	Noun	A3sg|Pnon|Nom	2	DERIV
+2	sağlıklı	_	Adj	With	_	4	COORDINATION
+3	ve	ve	Conj	Conj	_	2	CONJUNCTION
+4	hafif	hafif	Adj	Adj	_	0	PREDICATE
+5	.	.	Punc	Punc	_	4	PUNCTUATION
+
+5017:0
+1	Toplantı	toplantı	Noun	Noun	A3sg|Pnon|Nom	2	ARGUMENT
+2	için	için	Postp	PCNom	_	8	MODIFIER
+3	_	kalk	Verb	Verb	Pos	4	DERIV
+4	Kalkıp	_	Adverb	AfterDoingSo	_	8	MODIFIER
+5	Florya	Florya	Noun	Prop	A3sg|Pnon|Nom	6	MWE
+6	Lara	Lara	Noun	Prop	A3sg|Pnon|Nom	7	ARGUMENT
+7	kadar	kadar	Postp	PCDat	_	8	MODIFIER
+8	_	git	Verb	Verb	Pos	9	DERIV
+9	gidip	_	Adverb	AfterDoingSo	_	15	MODIFIER
+10	beklentiye	beklenti	Noun	Noun	A3sg|Pnon|Dat	11	MODIFIER
+11	bağlı	bağlı	Adj	Adj	_	12	ARGUMENT
+12	olarak	olarak	Postp	PCNom	_	15	MODIFIER
+13	hayal	hayal	Noun	Noun	A3sg|Pnon|Nom	14	POSSESSOR
+14	kırıklığı	kırıklık	Noun	Noun	A3sg|P3sg|Nom	15	OBJECT
+15	_	yarat	Verb	Verb	Pos	16	DERIV
+16	yaratan	_	Adj	PresPart	_	17	MODIFIER
+17	mekan	mekân	Noun	Noun	A3sg|Pnon|Nom	0	PREDICATE
+18	.	.	Punc	Punc	_	17	PUNCTUATION
+
+5017:1
+1	Dışarıdan	dışarı	Noun	Noun	A3sg|Pnon|Abl	4	MODIFIER
+2	lüks	lüks	Adj	Adj	_	3	ARGUMENT
+3	gibi	gibi	Postp	PCNom	_	4	MODIFIER
+4	görünse	görün	Verb	Verb	Pos|Desr|A3sg	17	MODIFIER
+5	de	de	Conj	Conj	_	4	INTENSIFIER
+6	artık	artık	Adverb	Adverb	_	8	MODIFIER
+7	tarihi	tarihi	Adj	Adj	_	8	MODIFIER
+8	geçmiş	geç	Verb	Verb	Pos|Narr|A3sg	11	MODIFIER
+9	mekan	mekân	Noun	Noun	A3sg|Pnon|Nom	10	POSSESSOR
+10	görüntüsü	görüntü	Noun	Noun	A3sg|P3sg|Nom	11	OBJECT
+11	vermekte	ver	Verb	Verb	Pos|Prog2|A3sg	17	COORDINATION
+12	ve	ve	Conj	Conj	_	11	CONJUNCTION
+13	_	içeri	Noun	Noun	A3sg|Pnon|Loc	14	DERIV
+14	içerideki	_	Adj	Rel	_	17	MODIFIER
+15	aksesuarlar	aksesuar	Noun	Noun	A3pl|Pnon|Nom	17	SUBJECT
+16	göz	göz	Noun	Noun	A3sg|Pnon|Nom	17	MWE
+17	yormakta	yor	Verb	Verb	Pos|Prog2|A3sg	0	PREDICATE
+18	.	.	Punc	Punc	_	17	PUNCTUATION
+
+5017:2
+1	_	ye	Verb	Verb	Pos	2	DERIV
+2	Yemeklere	_	Noun	Inf1	A3pl|Pnon|Dat	3	MODIFIER
+3	_	gel	Verb	Verb	Pos	4	DERIV
+4	gelince	_	Adverb	When	_	25	MODIFIER
+5	döner	döner	Adj	Adj	_	7	MODIFIER
+6	_	tat	Noun	Noun	A3sg|Pnon|Nom	7	DERIV
+7	tatsız	_	Adj	Without	_	15	MODIFIER
+8	tuzsuz	tuzsuz	Adj	Adj	_	15	MODIFIER
+9	,	,	Punc	Punc	_	8	PUNCTUATION
+10	et	et	Verb	Verb	Pos|Imp|A2sg	14	COORDINATION
+11	köfte	köfte	Noun	Noun	A3sg|Pnon|Nom	12	MWE
+12	Pınar	pınar	Noun	Noun	A3sg|Pnon|Nom	14	MODIFIER
+13	'ın	'ın	?	?	_	14	MWE
+14	et	et	Verb	Verb	Pos|Imp|A2sg	15	POSSESSOR
+15	köftesinden	köfte	Noun	Noun	A3sg|P3sg|Abl	17	MODIFIER
+16	daha	daha	Adverb	Adverb	_	17	MODIFIER
+17	kötü	kötü	Adj	Adj	_	25	COORDINATION
+18	,	,	Punc	Punc	_	17	PUNCTUATION
+19	kırmızı	kırmızı	Adj	Adj	_	20	MWE
+20	et	et	Verb	Verb	Pos|Imp|A2sg	25	MODIFIER
+21	hafifçe	hafifçe	Adverb	Adverb	_	25	MODIFIER
+22	sert	sert	Adj	Adj	_	25	COORDINATION
+23	ve	ve	Conj	Conj	_	22	CONJUNCTION
+24	_	keyifsiz	Noun	NAdj	A3sg|Pnon|Nom	25	DERIV
+25	keyifsizdi	_	Verb	Zero	Past|A3sg	0	PREDICATE
+26	.	.	Punc	Punc	_	25	PUNCTUATION
+
+5017:3
+1	Belki	belki	Adverb	Adverb	_	4	MODIFIER
+2	künefe	künefe	Noun	Noun	A3sg|Pnon|Nom	4	SUBJECT
+3	_	iyi	Noun	NAdj	A3sg|Pnon|Nom	4	DERIV
+4	iyidir	_	Verb	Zero	Pres|A3sg|Cop	5	ARGUMENT
+5	diye	diye	Postp	PCNom	_	6	MODIFIER
+6	_	düşün	Verb	Verb	Pos|Aor|A3sg	7	DERIV
+7	düşünürken	_	Adverb	While	_	18	MODIFIER
+8	künefenin	künefe	Noun	Noun	A3sg|Pnon|Gen	11	POSSESSOR
+9	peynirden	peynir	Noun	Noun	A3sg|Pnon|Abl	11	MODIFIER
+10	_	yok	Noun	NAdj	A3sg|Pnon|Nom	11	DERIV
+11	yoksun	_	Verb	Zero	Pres|A2sg	13	POSSESSOR
+12	_	ol	Verb	Verb	Pos	13	DERIV
+13	olması	_	Noun	Inf2	A3sg|P3sg|Nom	18	SUBJECT
+14	hayal	hayal	Noun	Noun	A3sg|Pnon|Nom	15	POSSESSOR
+15	kırıklığımızı	kırıklık	Noun	Noun	A3sg|P1pl|Acc	18	OBJECT
+16	üst	üst	Adj	Adj	_	17	MODIFIER
+17	seviyeye	seviye	Noun	Noun	A3sg|Pnon|Dat	18	MODIFIER
+18	çıkardı	çık	Verb	Verb	Pos|Aor|Past|A3sg	0	PREDICATE
+19	.	.	Punc	Punc	_	18	PUNCTUATION
+
+5017:4
+1	Illa	Illa	Noun	Prop	A3sg|Pnon|Nom	9	SUBJECT
+2	kebap	kebap	Noun	Noun	A3sg|Pnon|Nom	3	MWE
+3	_	ye	Verb	Verb	Pos	4	DERIV
+4	yemek	_	Noun	Inf1	A3sg|Pnon|Nom	5	OBJECT
+5	istiyorsanız	iste	Verb	Verb	Pos|Prog1|Cond|A2pl	8	MODIFIER
+6	başka	başka	Adj	Adj	_	7	MODIFIER
+7	tercihlere	tercih	Noun	Noun	A3pl|Pnon|Dat	8	MODIFIER
+8	yönelin	yönel	Verb	Verb	Pos|Imp|A2pl	9	OBJECT
+9	derim	de	Verb	Verb	Pos|Aor|A1sg	0	PREDICATE
+10	...	...	Punc	Punc	_	9	PUNCTUATION
+
+5018:0
+1	Uzun	uzun	Adj	Adj	_	2	MODIFIER
+2	_	zaman	Noun	Noun	A3sg|Pnon|Nom	3	DERIV
+3	zamandır	_	Verb	Zero	Pres|A3sg|Cop	4	MODIFIER
+4	gitmemiştim	git	Verb	Verb	Neg|Narr|Past|A1sg	8	COORDINATION
+5	ve	ve	Conj	Conj	_	4	CONJUNCTION
+6	iyi	iyi	Adj	Adj	_	8	MODIFIER
+7	ki	ki	Conj	Conj	_	6	INTENSIFIER
+8	gitmemişim	git	Verb	Verb	Neg|Narr|A1sg	0	PREDICATE
+9	.	.	Punc	Punc	_	8	PUNCTUATION
+
+5018:1
+1	Gercekten	Gercekten	Noun	Prop	A3sg|Pnon|Nom	2	POSSESSOR
+2	lahmacunu	lahmacun	Noun	Noun	A3sg|P3sg|Nom	3	POSSESSOR
+3	tavuğu	tavuk	Noun	Noun	A3sg|P3sg|Nom	5	SUBJECT
+4	_	berbat	Noun	NAdj	A3sg|Pnon|Nom	5	DERIV
+5	berbattı	_	Verb	Zero	Past|A3sg	12	COORDINATION
+6	ve	ve	Conj	Conj	_	5	CONJUNCTION
+7	_	gel	Verb	Verb	Pos	8	DERIV
+8	gelen	_	Adj	PresPart	_	9	MODIFIER
+9	hesap	hesap	Noun	Noun	A3sg|Pnon|Nom	12	SUBJECT
+10	2	2	Adj	Num	_	11	MODIFIER
+11	kişi	kişi	Noun	Noun	A3sg|Pnon|Nom	12	MODIFIER
+12	169tl	169tl	Noun	Noun	A3sg|Pnon|Nom	0	PREDICATE
+13	.	.	Punc	Punc	_	12	PUNCTUATION
+
+5018:2
+1	Hiç	hiç	Adverb	Adverb	_	3	MODIFIER
+2	tavsiye	tavsiye	Noun	Noun	A3sg|Pnon|Nom	3	MWE
+3	etmiyorum	et	Verb	Verb	Neg|Prog1|A1sg	0	ROOT
+4	,	,	Punc	Punc	_	3	PUNCTUATION
+5	design	design	Noun	Noun	A3sg|Pnon|Nom	6	OBJECT
+6	deseniz	de	Verb	Verb	Pos|Desr|A2pl	0	ROOT
+7	zaten	zaten	Adverb	Adverb	_	0	ROOT
+8	iç	iç	Adj	Adj	_	10	MODIFIER
+9	_	karar	Verb	Verb	Caus|Pos	10	DERIV
+10	karartıcı	_	Adj	Agt	_	0	ROOT
+11	ve	ve	Conj	Conj	_	10	CONJUNCTION
+12	demode	demode	Adj	Adj	_	0	ROOT
+
+5019:0
+1	100	100	Adj	Num	_	2	MWE
+2	lira	lira	Noun	Noun	A3sg|Pnon|Nom	5	SUBJECT
+3	fix	fix	Noun	Noun	A3sg|Pnon|Nom	5	MODIFIER
+4	menüye	menü	Noun	Noun	A3sg|Pnon|Dat	5	MODIFIER
+5	gittik	git	Verb	Verb	Pos|Past|A1pl	0	ROOT
+6	8	8	Adj	Num	_	7	MODIFIER
+7	kişi	kişi	Noun	Noun	A3sg|Pnon|Nom	0	ROOT
+8	1600	1600	Adj	Num	_	9	MODIFIER
+9	tl	tl	Noun	Noun	A3sg|Pnon|Nom	10	OBJECT
+10	ödedik	öde	Verb	Verb	Pos|Past|A1pl	14	COORDINATION
+11	1	1	Adj	Num	_	12	MODIFIER
+12	buyuk	buyuk	Noun	Noun	A3sg|Pnon|Nom	14	MODIFIER
+13	raki	rak	Noun	Noun	A3sg|Pnon|Acc	14	OBJECT
+14	içtik	iç	Verb	Verb	Pos|Past|A1pl	0	ROOT
+15	toplamda	toplam	Noun	Noun	A3sg|Pnon|Loc	14	MODIFIER
+16	.	.	Punc	Punc	_	15	PUNCTUATION
+
+5019:1
+1	kahve	kahve	Noun	Noun	A3sg|Pnon|Nom	3	COORDINATION
+2	ve	ve	Conj	Conj	_	1	CONJUNCTION
+3	çaylar	çay	Noun	Noun	A3pl|Pnon|Nom	0	ROOT
+4	200	200	Adj	Num	_	5	MODIFIER
+5	tl	tl	Noun	Noun	A3sg|Pnon|Nom	8	MODIFIER
+6	tutmus	tutmus	Noun	Noun	A3sg|Pnon|Nom	7	MWE
+7	heryerde	heryer	Noun	Noun	A3sg|Pnon|Loc	8	MODIFIER
+8	cay	cay	Verb	Verb	Pos|Imp|A2sg	10	MODIFIER
+9	_	ikram	Noun	Noun	A3sg|Pnon|Nom	10	DERIV
+10	ikramdır	_	Verb	Zero	Pres|A3sg|Cop	0	ROOT
+11	hemde	hem	Noun	Noun	A3sg|Pnon|Loc	0	ROOT
+12	1600	1600	Adj	Num	_	13	MODIFIER
+13	tl	tl	Noun	Noun	A3sg|Pnon|Nom	0	ROOT
+14	hesap	hesap	Noun	Noun	A3sg|Pnon|Nom	15	MWE
+15	_	ver	Verb	Verb	Pos	16	DERIV
+16	_	_	Adj	PresPart	_	17	DERIV
+17	verene	_	Noun	Zero	A3sg|Pnon|Dat	0	ROOT
+18	uzak	uzak	Adj	Adj	_	19	MODIFIER
+19	durun	dur	Verb	Verb	Pos|Imp|A2pl	0	ROOT
+
+5020:0
+1	Eğer	eğer	Conj	Conj	_	5	MODIFIER
+2	deniz	deniz	Noun	Noun	A3sg|Pnon|Nom	3	POSSESSOR
+3	kenarında	kenar	Noun	NAdj	A3sg|P3sg|Loc	5	MODIFIER
+4	yer	yer	Noun	Noun	A3sg|Pnon|Nom	5	MWE
+5	bulabilirseniz	bul	Verb	Verb	Able|Pos|Aor|Cond|A2pl	9	MODIFIER
+6	oturumu	oturum	Noun	Noun	A3sg|P3sg|Nom	9	SUBJECT
+7	çok	çok	Adverb	Adverb	_	9	MODIFIER
+8	_	keyif	Noun	Noun	A3sg|Pnon|Nom	9	DERIV
+9	keyifli	_	Adj	With	_	0	PREDICATE
+10	.	.	Punc	Punc	_	9	PUNCTUATION
+
+5020:1
+1	Mekan	mekan	Noun	Noun	A3sg|Pnon|Nom	12	SUBJECT
+2	çok	çok	Adverb	Adverb	_	3	DETERMINER
+3	büyük	büyük	Adj	Adj	_	4	MODIFIER
+4	_	ol	Verb	Verb	Pos	5	DERIV
+5	olduğu	_	Adj	PastPart	P3sg	6	ARGUMENT
+6	için	için	Postp	PCNom	_	12	MODIFIER
+7	personel	personel	Noun	Noun	A3sg|Pnon|Nom	8	MWE
+8	yetişemiyo	yetişemiyo	Noun	Noun	A3sg|Pnon|Nom	10	COORDINATION
+9	ve	ve	Conj	Conj	_	8	CONJUNCTION
+10	servis	servis	Noun	Noun	A3sg|Pnon|Nom	12	SUBJECT
+11	sürekli	sürekli	Adverb	Adverb	_	12	MODIFIER
+12	aksıyor	aksa	Verb	Verb	Pos|Prog1|A3sg	0	PREDICATE
+13	.	.	Punc	Punc	_	12	PUNCTUATION
+
+5020:2
+1	Yemekleri	yemek	Noun	Noun	A3pl|Pnon|Acc	0	ROOT
+2	gayet	gayet	Adverb	Adverb	_	0	ROOT
+3	güzel	güzel	Adj	Adj	_	0	ROOT
+
+5021:0
+1	İftar	iftar	Noun	Noun	A3sg|Pnon|Nom	2	POSSESSOR
+2	servisini	servis	Noun	Noun	A3sg|P3sg|Acc	5	OBJECT
+3	çok	çok	Adverb	Adverb	_	4	DETERMINER
+4	zayıf	zayıf	Adj	Adj	_	5	MODIFIER
+5	bulduk	bul	Verb	Verb	Pos|Past|A1pl	0	PREDICATE
+6	.	.	Punc	Punc	_	5	PUNCTUATION
+
+5021:1
+1	500	500	Adj	Num	_	2	MODIFIER
+2	kişiye	kişi	Noun	Noun	A3sg|Pnon|Dat	5	MODIFIER
+3	kaliteli	kaliteli	Adj	Adj	_	4	MODIFIER
+4	servis	servis	Noun	Noun	A3sg|Pnon|Nom	5	OBJECT
+5	verilemiyorsa	ver	Verb	Verb	Pass|Able|Neg|Prog1|Cond|A3sg	11	MODIFIER
+6	300	300	Adj	Num	_	7	MODIFIER
+7	kişiye	kişi	Noun	Noun	A3sg|Pnon|Dat	11	MODIFIER
+8	daha	daha	Adverb	Adverb	_	9	MODIFIER
+9	iyi	iyi	Adj	Adj	_	10	MODIFIER
+10	şartlar	şart	Noun	Noun	A3pl|Pnon|Nom	11	SUBJECT
+11	sağlanabilir	sağla	Verb	Verb	Pass|Able|Pos|Aor|A3sg	12	ARGUMENT
+12	diye	diye	Postp	PCNom	_	13	MODIFIER
+13	düşünüyorum	düşün	Verb	Verb	Pos|Prog1|A1sg	0	PREDICATE
+14	.	.	Punc	Punc	_	13	PUNCTUATION
+
+5021:2
+1	Ramazanda	ramazan	Noun	Noun	A3sg|Pnon|Loc	3	MODIFIER
+2	tavsiye	tavsiye	Noun	Noun	A3sg|Pnon|Nom	3	MWE
+3	etmiyorum	et	Verb	Verb	Neg|Prog1|A1sg	0	PREDICATE
+4	.	.	Punc	Punc	_	3	PUNCTUATION
+
+5022:0
+1	Bana	ben	Pron	Pers	A1sg|Pnon|Dat	7	MODIFIER
+2	sushiyi	sushiy	Noun	Noun	A3sg|Pnon|Acc	3	OBJECT
+3	_	sev	Verb	Verb	Caus|Pos	4	DERIV
+4	sevdiren	_	Adj	PresPart	_	6	MODIFIER
+5	tek	tek	Adj	Adj	_	6	MODIFIER
+6	yer	yer	Noun	Noun	A3sg|Pnon|Nom	7	OBJECT
+7	diyebilirim	de	Verb	Verb	Able|Pos|Aor|A1sg	0	PREDICATE
+8	çalışanları	çalışan	Noun	Noun	A3pl|Pnon|Acc	7	OBJECT
+9	o	o	Det	Det	_	10	ARGUMENT
+10	kadar	kadar	Postp	PCNom	_	11	MODIFIER
+11	güler	gül	Verb	Verb	Pos|Aor|A3sg	7	OBJECT
+12	yüzlü	yüzlü	Adj	Adj	_	11	MODIFIER
+13	ki	ki	Conj	Conj	_	12	INTENSIFIER
+14	.	.	Punc	Punc	_	13	PUNCTUATION
+
+5022:1
+1	Bu	bu	Det	Det	_	2	DETERMINER
+2	fiyata	fiyat	Noun	Noun	A3sg|Pnon|Dat	9	MODIFIER
+3	böyle	böyle	Adj	Adj	_	5	MODIFIER
+4	bir	bir	Adj	Num	_	5	DETERMINER
+5	memnuniyet	memnuniyet	Noun	Noun	A3sg|Pnon|Nom	9	SUBJECT
+6	çok	çok	Adverb	Adverb	_	7	DETERMINER
+7	az	az	Adverb	Adverb	_	8	MODIFIER
+8	rastlanacak	rastla	Verb	Verb	Pass|Pos|Fut|A3sg	9	MODIFIER
+9	şey	şey	Noun	Noun	A3sg|Pnon|Nom	0	PREDICATE
+10	.	.	Punc	Punc	_	9	PUNCTUATION
+
+5022:2
+1	Mekan	mekan	Noun	Noun	A3sg|Pnon|Nom	0	ROOT
+2	hiç	hiç	Adverb	Adverb	_	4	MODIFIER
+3	_	boğ	Verb	Verb	Pos	4	DERIV
+4	boğucu	_	Adj	Agt	_	5	MODIFIER
+5	degil	degil	Noun	Noun	A3sg|Pnon|Nom	0	ROOT
+6	gayet	gayet	Adverb	Adverb	_	0	ROOT
+7	güzel	güzel	Adj	Adj	_	0	ROOT
+
+5023:0
+1	Akrabalar	akraba	Noun	Noun	A3pl|Pnon|Nom	3	SUBJECT
+2	bizi	biz	Pron	Pers	A1pl|Pnon|Acc	3	OBJECT
+3	götürdü	götür	Verb	Verb	Pos|Past|A3sg	0	PREDICATE
+4	.	.	Punc	Punc	_	3	PUNCTUATION
+
+5023:1
+1	Burasi	Burasi	Noun	Prop	A3sg|Pnon|Nom	0	PREDICATE
+2	_	turkiye	Noun	Noun	A3sg|Pnon|Loc	3	DERIV
+3	turkiyedeki	_	Adj	Rel	_	4	MODIFIER
+4	eti	et	Noun	Noun	A3sg|Pnon|Acc	1	OBJECT
+5	restoran	restoran	Noun	Noun	A3sg|Pnon|Nom	6	ARGUMENT
+6	olarak	olarak	Postp	PCNom	_	9	MODIFIER
+7	mukenmel	mukenmel	Noun	Noun	A3sg|Pnon|Nom	8	MWE
+8	restorant	restorant	Noun	Noun	A3sg|Pnon|Nom	9	MWE
+9	biriymis	biriymis	Noun	Noun	A3sg|Pnon|Nom	4	SUBJECT
+10	.	.	Punc	Punc	_	9	PUNCTUATION
+
+5023:2
+1	Tabi	tabi	Interj	Interj	_	7	MODIFIER
+2	ki	ki	Conj	Conj	_	1	INTENSIFIER
+3	et	et	Verb	Verb	Pos|Imp|A2sg	7	COORDINATION
+4	yemekler	yemek	Noun	Noun	A3pl|Pnon|Nom	5	POSSESSOR
+5	hepsi	hepsi	Pron	Quant	A3pl|P3pl|Nom	7	SUBJECT
+6	çok	çok	Adverb	Adverb	_	7	MODIFIER
+7	harika	harika	Adj	Adj	_	0	PREDICATE
+8	.	.	Punc	Punc	_	7	PUNCTUATION
+
+5023:3
+1	Tarihi	tarihi	Adj	Adj	_	2	MODIFIER
+2	bina	bina	Noun	Noun	A3sg|Pnon|Nom	4	OBJECT
+3	da	da	Conj	Conj	_	2	INTENSIFIER
+4	beğendim	beğen	Verb	Verb	Pos|Past|A1sg	0	PREDICATE
+5	.	.	Punc	Punc	_	4	PUNCTUATION
+
+5024:0
+1	Tereyağlı	Tereyağlı	Noun	Prop	A3sg|Pnon|Nom	9	SUBJECT
+2	Mercimek	mercimek	Noun	Noun	A3sg|Pnon|Nom	3	POSSESSOR
+3	Çorbası	çorba	Noun	Noun	A3sg|P3sg|Nom	5	COORDINATION
+4	ve	ve	Conj	Conj	_	3	CONJUNCTION
+5	Bıçak	bıçak	Noun	Noun	A3sg|Pnon|Nom	6	POSSESSOR
+6	arası	ara	Noun	NAdj	A3sg|P3sg|Nom	9	MODIFIER
+7	muhteşem	muhteşem	Adj	Adj	_	8	MWE
+8	ikili	ikili	Adj	Adj	_	9	OBJECT
+9	diyebilirim	de	Verb	Verb	Able|Pos|Aor|A1sg	0	PREDICATE
+10	.	.	Punc	Punc	_	9	PUNCTUATION
+
+5024:1
+1	Her	her	Det	Det	_	2	DETERMINER
+2	Şubesi	şube	Noun	Noun	A3sg|P3sg|Nom	6	SUBJECT
+3	'nde	'nde	?	?	_	6	MODIFIER
+4	aynı	aynı	Adj	Adj	_	5	MODIFIER
+5	kaliteyi	kalite	Noun	NAdj	A3sg|Pnon|Acc	6	OBJECT
+6	yakalamışlar	yakala	Verb	Verb	Pos|Narr|A3pl	0	PREDICATE
+7	.	.	Punc	Punc	_	6	PUNCTUATION
+
+5024:2
+1	Sadece	sadece	Adverb	Adverb	_	5	MODIFIER
+2	döner	döner	Adj	Adj	_	3	MODIFIER
+3	olayını	olay	Noun	Noun	A3sg|P3sg|Acc	5	OBJECT
+4	pek	pek	Adverb	Adverb	_	5	MODIFIER
+5	yapamıyorlar	yap	Verb	Verb	Able|Neg|Prog1|A3pl	0	PREDICATE
+6	.	.	Punc	Punc	_	5	PUNCTUATION
+
+5025:0
+1	Servis	servis	Noun	Noun	A3sg|Pnon|Nom	2	POSSESSOR
+2	saatlerinde	saat	Noun	Noun	A3pl|P3sg|Loc	5	MODIFIER
+3	bolca	bolca	Adj	Adj	_	4	MODIFIER
+4	kalabalık	kalabalık	Noun	Noun	A3sg|Pnon|Nom	5	OBJECT
+5	_	ol	Verb	Verb	Pos	6	DERIV
+6	olan	_	Adj	PresPart	_	7	MODIFIER
+7	ilgili	ilgili	Noun	NAdj	A3sg|Pnon|Nom	18	SUBJECT
+8	bir	bir	Adj	Num	_	9	DETERMINER
+9	mekan	mekan	Noun	Noun	A3sg|Pnon|Nom	16	POSSESSOR
+10	ambiyans	ambiyans	Noun	Noun	A3sg|Pnon|Nom	11	ARGUMENT
+11	olarak	olarak	Postp	PCNom	_	15	MODIFIER
+12	farklı	farklı	Adj	Adj	_	14	MODIFIER
+13	bir	bir	Adj	Num	_	14	DETERMINER
+14	lezzet	lezzet	Noun	Noun	A3sg|Pnon|Nom	15	OBJECT
+15	_	tat	Verb	Verb	Pos	16	DERIV
+16	tadacağınızı	_	Noun	FutPart	A3sg|P2pl|Acc	18	OBJECT
+17	size	siz	Pron	Pers	A2pl|Pnon|Dat	18	MODIFIER
+18	bildiriyor	bil	Verb	Verb	Caus|Pos|Prog1|A3sg	0	PREDICATE
+19	.	.	Punc	Punc	_	18	PUNCTUATION
+
+5025:1
+1	Farklı	farklı	Adj	Adj	_	2	MODIFIER
+2	tatlar	tat	Noun	Noun	A3pl|Pnon|Nom	3	ARGUMENT
+3	için	için	Postp	PCNom	_	0	PREDICATE
+4	dusunulebilinir	dusunulebilinir	Noun	Noun	A3sg|Pnon|Nom	3	SUBJECT
+5	.	.	Punc	Punc	_	4	PUNCTUATION
+
+5026:0
+1	Tavukların	tavuk	Noun	Noun	A3pl|Pnon|Gen	6	POSSESSOR
+2	iri	iri	Adj	Adj	_	3	MODIFIER
+3	_	doğra	Verb	Verb	Pass|Pos	4	DERIV
+4	doğranmış	_	Adj	NarrPart	_	5	MODIFIER
+5	_	ol	Verb	Verb	Pos	6	DERIV
+6	olması	_	Noun	Inf2	A3sg|P3sg|Nom	9	SUBJECT
+7	pek	pek	Adverb	Adverb	_	8	MODIFIER
+8	hoş	hoş	Adj	Adj	_	9	MODIFIER
+9	degil	degil	Noun	Noun	A3sg|Pnon|Nom	0	PREDICATE
+10	.	.	Punc	Punc	_	9	PUNCTUATION
+
+5026:1
+1	Pilavda	pilav	Noun	Noun	A3sg|Pnon|Loc	4	MODIFIER
+2	su	su	Noun	Noun	A3sg|Pnon|Nom	3	POSSESSOR
+3	tadı	tat	Noun	Noun	A3sg|P3sg|Nom	4	OBJECT
+4	alıyorsunuz	al	Verb	Verb	Pos|Prog1|A2pl	0	PREDICATE
+5	.	.	Punc	Punc	_	4	PUNCTUATION
+
+5026:2
+1	Bir	bir	Adj	Num	_	8	MODIFIER
+2	de	de	Conj	Conj	_	1	INTENSIFIER
+3	üstüne	üst	Noun	NAdj	A3sg|P3sg|Dat	8	MODIFIER
+4	9	9	Adj	Num	_	6	MWE
+5	,	,	Punc	Punc	_	4	PUNCTUATION
+6	5	5	Adj	Num	_	7	MODIFIER
+7	TL	tl	Noun	Noun	A3sg|Pnon|Nom	8	OBJECT
+8	veriyorsunuz	ver	Verb	Verb	Pos|Prog1|A2pl	0	PREDICATE
+9	.	.	Punc	Punc	_	8	PUNCTUATION
+
+5026:3
+1	Afiyet	afiyet	Noun	Noun	A3sg|Pnon|Nom	2	OBJECT
+2	oldu	ol	Verb	Verb	Pos|Past|A3sg	3	ARGUMENT
+3	mu	mu	Postp	Ques	Pres|A3sg	5	MODIFIER
+4	_	sim	Noun	Noun	A3sg|Pnon|Nom	5	DERIV
+5	simdi	_	Verb	Zero	Past|A3sg	0	PREDICATE
+6	bana	ben	Pron	Pers	A1sg|Pnon|Dat	5	MODIFIER
+7	:	:	Punc	Punc	_	6	PUNCTUATION
+
+5027:0
+1	Tercih	tercih	Noun	Noun	A3sg|Pnon|Nom	2	MWE
+2	etmem	et	Verb	Verb	Neg|Aor|A1sg	8	COORDINATION
+3	-	-	Punc	Punc	_	2	PUNCTUATION
+4	Pazar	pazar	Noun	Noun	A3sg|Pnon|Nom	5	POSSESSOR
+5	günü	gün	Noun	Noun	A3sg|P3sg|Nom	8	MODIFIER
+6	kahvaltı	kahvaltı	Noun	Noun	A3sg|Pnon|Nom	7	ARGUMENT
+7	için	için	Postp	PCNom	_	8	MODIFIER
+8	gittim	git	Verb	Verb	Pos|Past|A1sg	0	PREDICATE
+9	.	.	Punc	Punc	_	8	PUNCTUATION
+
+5027:1
+1	Daha	daha	Adverb	Adverb	_	2	MODIFIER
+2	önce	önce	Adverb	Adverb	_	7	MODIFIER
+3	Nişantaşı	Nişantaşı	Noun	Prop	A3sg|Pnon|Nom	4	MWE
+4	'nda	'nda	?	?	_	7	MODIFIER
+5	ki	ki	Conj	Conj	_	4	INTENSIFIER
+6	şubeye	şube	Noun	Noun	A3sg|Pnon|Dat	7	MODIFIER
+7	gitmiştim	git	Verb	Verb	Pos|Narr|Past|A1sg	12	COORDINATION
+8	ve	ve	Conj	Conj	_	7	CONJUNCTION
+9	inanılmaz	inan	Verb	Verb	Pass|Neg|Aor|A3sg	12	MODIFIER
+10	güzel	güzel	Adj	Adj	_	12	MODIFIER
+11	kahvaltı	kahvaltı	Noun	Noun	A3sg|Pnon|Nom	12	MWE
+12	etmiştim	et	Verb	Verb	Pos|Narr|Past|A1sg	15	COORDINATION
+13	ve	ve	Conj	Conj	_	12	CONJUNCTION
+14	memnun	memnun	Adj	Adj	_	15	MWE
+15	kalmıştım	kal	Verb	Verb	Pos|Narr|Past|A1sg	0	PREDICATE
+16	.	.	Punc	Punc	_	15	PUNCTUATION
+
+5027:2
+1	Ama	ama	Conj	Conj	_	0	CONJUNCTION
+2	bu	bu	Det	Det	_	3	DETERMINER
+3	sefer	sefer	Noun	Noun	A3sg|Pnon|Nom	10	MODIFIER
+4	Beyoglu	Beyoglu	Noun	Prop	A3sg|Pnon|Nom	5	MWE
+5	'nda	'nda	?	?	_	10	MODIFIER
+6	ki	ki	Conj	Conj	_	5	INTENSIFIER
+7	şubede	şube	Noun	Noun	A3sg|Pnon|Loc	10	MODIFIER
+8	hiç	hiç	Adverb	Adverb	_	10	MODIFIER
+9	memnun	memnun	Adj	Adj	_	10	MWE
+10	kalmadım	kal	Verb	Verb	Neg|Past|A1sg	0	PREDICATE
+11	.	.	Punc	Punc	_	10	PUNCTUATION
+
+5028:0
+1	Manzarası	manzara	Noun	Noun	A3sg|P3sg|Nom	10	SUBJECT
+2	yat	yat	Noun	Noun	A3sg|Pnon|Nom	3	POSSESSOR
+3	limanı	liman	Noun	Noun	A3sg|P3sg|Nom	10	SUBJECT
+4	Garsonları	garson	Noun	Noun	A3pl|Pnon|Acc	10	OBJECT
+5	ilgi	ilgi	Noun	Noun	A3sg|Pnon|Nom	7	MODIFIER
+6	_	alaka	Noun	Noun	A3sg|Pnon|Nom	7	DERIV
+7	alakalı	_	Adj	With	_	10	MODIFIER
+8	ozellikle	ozellikle	Noun	Noun	A3sg|Pnon|Nom	10	SUBJECT
+9	Ege	ege	Noun	Noun	A3sg|Pnon|Nom	10	MWE
+10	bey	bey	Noun	Noun	A3sg|Pnon|Nom	0	PREDICATE
+11	.	.	Punc	Punc	_	10	PUNCTUATION
+
+5028:1
+1	Ancak	ancak	Conj	Conj	_	0	CONJUNCTION
+2	fiyatlar	fiyat	Noun	Noun	A3pl|Pnon|Nom	4	COORDINATION
+3	ile	ile	Conj	Conj	_	2	CONJUNCTION
+4	yemek	yemek	Noun	Noun	A3sg|Pnon|Nom	6	POSSESSOR
+5	_	karşılaş	Verb	Verb	Caus|Pos	6	DERIV
+6	karşılaştırması	_	Noun	Inf2	A3sg|P3sg|Nom	19	SUBJECT
+7	bence	ben	Pron	Pers	A1sg|Pnon|Equ	11	MODIFIER
+8	uyumsuz	uyumsuz	Adj	Adj	_	10	MODIFIER
+9	yüksek	yüksek	Adj	Adj	_	10	MODIFIER
+10	standartlar	standart	Noun	NAdj	A3pl|Pnon|Nom	11	OBJECT
+11	içermekte	içer	Verb	Verb	Pos|Prog2|A3sg	19	MODIFIER
+12	Ayni	ayni	Adj	Adj	_	13	MODIFIER
+13	mekanda	mekan	Noun	Noun	A3sg|Pnon|Loc	19	MODIFIER
+14	daha	daha	Adverb	Adverb	_	15	MODIFIER
+15	çok	çok	Adverb	Adverb	_	16	DETERMINER
+16	çeşit	çeşit	Noun	Noun	A3sg|Pnon|Nom	19	MODIFIER
+17	var	var	Adj	Adj	_	18	MODIFIER
+18	İsim	isim	Noun	Noun	A3sg|Pnon|Nom	19	OBJECT
+19	satıyor	sat	Verb	Verb	Pos|Prog1|A3sg	0	PREDICATE
+20	birazz	birazz	Noun	Noun	A3sg|Pnon|Nom	21	MWE
+21	Dikkat	dikkat	Noun	Noun	A3sg|Pnon|Nom	19	MODIFIER
+22	!	!	Punc	Punc	_	21	PUNCTUATION
+
+5029:0
+1	Konumu	konu	Noun	Noun	A3sg|P1sg|Acc	3	COORDINATION
+2	,	,	Punc	Punc	_	1	PUNCTUATION
+3	manzarası	manzara	Noun	Noun	A3sg|P3sg|Nom	6	COORDINATION
+4	,	,	Punc	Punc	_	3	PUNCTUATION
+5	lezzeti	lezzet	Noun	Noun	A3sg|P3sg|Nom	6	SUBJECT
+6	şahane	şahane	Adj	Adj	_	0	PREDICATE
+7	...	...	Punc	Punc	_	6	PUNCTUATION
+
+5029:1
+1	Bir	bir	Adj	Num	_	2	DETERMINER
+2	arkadaşımın	arkadaş	Noun	Noun	A3sg|P1sg|Gen	3	POSSESSOR
+3	ısrarı	ısrar	Noun	Noun	A3sg|P3sg|Nom	6	OBJECT
+4	ile	ile	Conj	Conj	_	3	CONJUNCTION
+5	lahmacun	lahmacun	Noun	Noun	A3sg|Pnon|Nom	6	MWE
+6	yemiştim	ye	Verb	Verb	Pos|Narr|Past|A1sg	14	COORDINATION
+7	ki	ki	Conj	Conj	_	6	CONJUNCTION
+8	benim	ben	Pron	Pers	A1sg|Pnon|Gen	10	POSSESSOR
+9	_	ye	Verb	Verb	Pos	10	DERIV
+10	yediğim	_	Adj	PastPart	P1sg	13	MODIFIER
+11	en	en	Adverb	Adverb	_	12	MODIFIER
+12	güzel	güzel	Adj	Adj	_	13	MODIFIER
+13	_	lahmacun	Noun	Noun	A3sg|Pnon|Nom	14	DERIV
+14	lahmacundu	_	Verb	Zero	Past|A3sg	0	PREDICATE
+15	...	...	Punc	Punc	_	14	PUNCTUATION
+
+5029:2
+1	Kebapları	kebap	Noun	Noun	A3pl|Pnon|Acc	3	SUBJECT
+2	zaten	zaten	Adverb	Adverb	_	3	MODIFIER
+3	muazzam	muazzam	Adj	Adj	_	0	PREDICATE
+4	:	:	Punc	Punc	_	3	PUNCTUATION
+
+5029:3
+1	Yani	yani	Conj	Conj	_	5	MODIFIER
+2	en	en	Adverb	Adverb	_	3	MODIFIER
+3	basitinden	basit	Noun	NAdj	A3sg|P3sg|Abl	5	MODIFIER
+4	en	en	Adverb	Adverb	_	5	MODIFIER
+5	zoruna	zor	Noun	NAdj	A3sg|P3sg|Dat	0	PREDICATE
+6	...	...	Punc	Punc	_	5	PUNCTUATION
+
+5029:4
+1	Hepsi	hepsi	Pron	Quant	A3pl|P3pl|Nom	2	SUBJECT
+2	harika	harika	Adj	Adj	_	0	PREDICATE
+3	...	...	Punc	Punc	_	2	PUNCTUATION
+
+5029:5
+1	Ayrıca	ayrıca	Adverb	Adverb	_	3	MODIFIER
+2	sigara	sigara	Noun	Noun	A3sg|Pnon|Nom	3	OBJECT
+3	_	iç	Verb	Verb	Neg	4	DERIV
+4	_	_	Adj	PresPart	_	5	DERIV
+5	içmeyenlerin	_	Noun	Zero	A3pl|Pnon|Gen	6	POSSESSOR
+6	dostu	dost	Noun	NAdj	A3sg|P3sg|Nom	0	ROOT
+7	_	ol	Verb	Verb	Pos	8	DERIV
+8	olması	_	Noun	Inf2	A3sg|P3sg|Nom	0	ROOT
+9	dolayısıyla	dolayısıyla	Adverb	Adverb	_	0	ROOT
+10	bu	bu	Det	Det	_	11	DETERMINER
+11	mekan	mekân	Noun	Noun	A3sg|Pnon|Nom	0	ROOT
+12	benim	ben	Pron	Pers	A1sg|Pnon|Gen	14	POSSESSOR
+13	en	en	Adverb	Adverb	_	14	MODIFIER
+14	favorilerimden	favori	Noun	NAdj	A3pl|P1sg|Abl	0	ROOT
+15	:	:	Punc	Punc	_	14	PUNCTUATION
+
+5030:0
+1	Bu	bu	Det	Det	_	2	DETERMINER
+2	mekan	mekan	Noun	Noun	A3sg|Pnon|Nom	15	SUBJECT
+3	newyorkta	newyorkd	Noun	Noun	A3sg|Pnon|Dat	4	MODIFIER
+4	olsa	ol	Verb	Verb	Pos|Desr|A3sg	15	MODIFIER
+5	yemek	yemek	Noun	Noun	A3sg|Pnon|Nom	7	MWE
+6	_	ye	Verb	Verb	Pos	7	DERIV
+7	yemek	_	Noun	Inf1	A3sg|Pnon|Nom	8	ARGUMENT
+8	için	için	Postp	PCNom	_	13	MODIFIER
+9	bir	bir	Adj	Num	_	10	DETERMINER
+10	sene	sene	Noun	Noun	A3sg|Pnon|Nom	13	MODIFIER
+11	önceden	önceden	Adverb	Adverb	_	13	MODIFIER
+12	rezervasyon	rezervasyon	Noun	Noun	A3sg|Pnon|Nom	13	MWE
+13	_	yap	Verb	Verb	Caus|Pos	14	DERIV
+14	yaptırmak	_	Noun	Inf1	A3sg|Pnon|Nom	15	OBJECT
+15	gerekirdi	gerek	Verb	Verb	Pos|Aor|Past|A3sg	0	PREDICATE
+16	.	.	Punc	Punc	_	15	PUNCTUATION
+
+5030:1
+1	Pırıl	pırıl	Dup	Dup	_	2	MWE
+2	pırıl	pırıl	Dup	Dup	_	3	MODIFIER
+3	salonlar	salon	Noun	Noun	A3pl|Pnon|Nom	0	ROOT
+4	Güler	gül	Verb	Verb	Pos|Aor|A3sg	0	ROOT
+5	yüzlü	yüzlü	Adj	Adj	_	7	COORDINATION
+6	ve	ve	Conj	Conj	_	5	CONJUNCTION
+7	temiz	temiz	Adj	Adj	_	8	MODIFIER
+8	garsonlar	garson	Noun	Noun	A3pl|Pnon|Nom	4	SUBJECT
+9	.	.	Punc	Punc	_	8	PUNCTUATION
+
+5030:2
+1	Etler	et	Noun	Noun	A3pl|Pnon|Nom	2	ARGUMENT
+2	için	için	Postp	PCNom	_	5	MODIFIER
+3	yoruma	yorum	Noun	Noun	A3sg|Pnon|Dat	5	MODIFIER
+4	gerek	gerek	Noun	Noun	A3sg|Pnon|Nom	5	SUBJECT
+5	yok	yok	Adj	Adj	_	0	PREDICATE
+6	.	.	Punc	Punc	_	5	PUNCTUATION
+
+5030:3
+1	Özellikle	özellikle	Adverb	Adverb	_	16	MODIFIER
+2	favorim	favori	Noun	NAdj	A3sg|P1sg|Nom	16	MODIFIER
+3	bakır	bakır	Adj	Adj	_	4	MODIFIER
+4	kapta	kap	Noun	Noun	A3sg|Pnon|Loc	5	MODIFIER
+5	_	gel	Verb	Verb	Pos	6	DERIV
+6	gelen	_	Adj	PresPart	_	8	MODIFIER
+7	kuzu	kuzu	Noun	Noun	A3sg|Pnon|Nom	8	MODIFIER
+8	kol	kol	Noun	Noun	A3sg|Pnon|Nom	16	SUBJECT
+9	,	,	Punc	Punc	_	8	PUNCTUATION
+10	bunu	bu	Pron	Demons	A3sg|Pnon|Acc	16	OBJECT
+11	bu	bu	Det	Det	_	12	DETERMINER
+12	şekilde	şekil	Noun	Noun	A3sg|Pnon|Loc	16	MODIFIER
+13	başka	başka	Adj	Adj	_	14	MODIFIER
+14	yerde	yer	Noun	Noun	A3sg|Pnon|Loc	16	MODIFIER
+15	yemeniz	yeme	Noun	Noun	A3sg|P2pl|Nom	16	SUBJECT
+16	olanaksız	olanaksız	Adj	Adj	_	0	PREDICATE
+17	.	.	Punc	Punc	_	16	PUNCTUATION
+
+5030:4
+1	zeytinyağlılar	zeytinyağlı	Noun	NAdj	A3pl|Pnon|Nom	16	SUBJECT
+2	süper	süper	Adj	Adj	_	4	MODIFIER
+3	özellikle	özellikle	Adverb	Adverb	_	4	MODIFIER
+4	imambayıldı	imambayıldı	Noun	Noun	A3sg|Pnon|Nom	5	MODIFIER
+5	titretiyor	titre	Verb	Verb	Caus|Pos|Prog1|A3sg	16	COORDINATION
+6	insanı	insan	Noun	Noun	A3sg|Pnon|Acc	16	OBJECT
+7	,	,	Punc	Punc	_	6	PUNCTUATION
+8	alkol	alkol	Noun	Noun	A3sg|Pnon|Nom	9	MWE
+9	içmeyecekseniz	iç	Verb	Verb	Neg|Fut|Cond|A2pl	16	MODIFIER
+10	mukakkak	mukakkak	Noun	Noun	A3sg|Pnon|Nom	16	MODIFIER
+11	koyu	koyu	Adj	Adj	_	12	MODIFIER
+12	ayranı	ayran	Noun	Noun	A3sg|Pnon|Acc	13	OBJECT
+13	_	iç	Verb	Verb	Pos	14	DERIV
+14	içmenizi	_	Noun	Inf2	A3sg|P2pl|Acc	16	OBJECT
+15	tavsiye	tavsiye	Noun	Noun	A3sg|Pnon|Nom	16	MWE
+16	ederim	et	Verb	Verb	Pos|Aor|A1sg	0	PREDICATE
+17	.	.	Punc	Punc	_	16	PUNCTUATION
+
+5030:5
+1	İş	iş	Noun	Noun	A3sg|Pnon|Nom	3	SUBJECT
+2	fiyatlara	fiyat	Noun	Noun	A3pl|Pnon|Dat	3	MODIFIER
+3	_	gel	Verb	Verb	Pos	4	DERIV
+4	gelince	_	Adverb	When	_	25	MODIFIER
+5	öyle	öyle	Adverb	Adverb	_	7	MODIFIER
+6	bir	bir	Adj	Num	_	7	DETERMINER
+7	mekan	mekan	Noun	Noun	A3sg|Pnon|Nom	8	ARGUMENT
+8	için	için	Postp	PCNom	_	25	MODIFIER
+9	normal	normal	Adj	Adj	_	11	COORDINATION
+10	fakat	fakat	Conj	Conj	_	9	CONJUNCTION
+11	beyti	beyti	Noun	Noun	A3sg|Pnon|Nom	12	POSSESSOR
+12	kalitesinde	kalite	Noun	NAdj	A3sg|P3sg|Loc	25	MODIFIER
+13	Avrupa	Avrupa	Noun	Prop	A3sg|Pnon|Nom	15	COORDINATION
+14	veya	veya	Conj	Conj	_	13	CONJUNCTION
+15	Amerika	Amerika	Noun	Prop	A3sg|Pnon|Nom	25	SUBJECT
+16	'da	'da	?	?	_	17	MODIFIER
+17	yer	yer	Noun	Noun	A3sg|Pnon|Nom	18	ARGUMENT
+18	iseniz	ise	Postp	Postp	Cond|A2pl	22	MODIFIER
+19	3	3	Adj	Num	_	20	MODIFIER
+20	kat	kat	Noun	Noun	A3sg|Pnon|Nom	21	POSSESSOR
+21	fazlasını	fazla	Noun	NAdj	A3sg|P3sg|Acc	22	OBJECT
+22	_	öde	Verb	Verb	Pos	23	DERIV
+23	ödemek	_	Noun	Inf1	A3sg|Pnon|Nom	25	OBJECT
+24	_	zorun	Noun	Noun	A3sg|Pnon|Loc	25	DERIV
+25	zorundasınız	_	Verb	Zero	Pres|A2pl	0	PREDICATE
+26	.	.	Punc	Punc	_	25	PUNCTUATION
+
+5031:0
+1	Mahalle	mahalle	Noun	Noun	A3sg|Pnon|Nom	2	POSSESSOR
+2	lokantası	lokanta	Noun	Noun	A3sg|P3sg|Nom	8	SUBJECT
+3	-	-	Punc	Punc	_	2	PUNCTUATION
+4	Yıllardan	yıl	Noun	Noun	A3pl|Pnon|Abl	5	ARGUMENT
+5	beri	beri	Postp	PCAbl	_	8	MODIFIER
+6	Sushico	Sushico	Noun	Prop	A3sg|Pnon|Nom	7	MWE
+7	Nişantaşı	Nişantaşı	Noun	Prop	A3sg|Pnon|Nom	8	MWE
+8	'nda	'nda	?	?	_	0	PREDICATE
+9	.	.	Punc	Punc	_	8	PUNCTUATION
+
+5031:1
+1	Ara	ara	Noun	NAdj	A3sg|Pnon|Nom	6	MODIFIER
+2	sira	sir	Noun	Noun	A3sg|Pnon|Dat	3	MODIFIER
+3	_	git	Verb	Verb	Pass|Able|Pos	4	DERIV
+4	gidilebilecek	_	Adj	FutPart	Pnon	6	MODIFIER
+5	bir	bir	Adj	Num	_	6	DETERMINER
+6	lokanta	lokanta	Noun	Noun	A3sg|Pnon|Nom	0	PREDICATE
+7	.	.	Punc	Punc	_	6	PUNCTUATION
+
+5031:2
+1	Susileri	Susileri	Noun	Prop	A3sg|Pnon|Nom	9	SUBJECT
+2	belli	belli	Adj	Adj	_	4	MODIFIER
+3	bir	bir	Adj	Num	_	4	DETERMINER
+4	seviyede	seviye	Noun	Noun	A3sg|Pnon|Loc	9	MODIFIER
+5	her	her	Det	Det	_	6	MWE
+6	zaman	zaman	Noun	Noun	A3sg|Pnon|Nom	9	MODIFIER
+7	,	,	Punc	Punc	_	6	PUNCTUATION
+8	aşağı	aşağı	Adj	Adj	_	9	MODIFIER
+9	düşmüyor	düş	Verb	Verb	Neg|Prog1|A3sg	0	PREDICATE
+10	.	.	Punc	Punc	_	9	PUNCTUATION
+
+5031:3
+1	Çin	Çin	Noun	Prop	A3sg|Pnon|Nom	2	POSSESSOR
+2	yemekleri	yemek	Noun	Noun	A3pl|P3pl|Nom	5	SUBJECT
+3	de	de	Conj	Conj	_	2	INTENSIFIER
+4	fena	fena	Adj	Adj	_	5	MODIFIER
+5	degil	degil	Noun	Noun	A3sg|Pnon|Nom	0	PREDICATE
+6	.	.	Punc	Punc	_	5	PUNCTUATION
+
+5032:0
+1	sabahları	sabahları	Adverb	Adverb	_	2	MODIFIER
+2	börekleri	börek	Noun	Noun	A3pl|Pnon|Acc	0	PREDICATE
+3	.	.	Punc	Punc	_	2	PUNCTUATION
+
+5032:1
+1	öğle	öğle	Noun	Noun	A3sg|Pnon|Nom	4	COORDINATION
+2	ve	ve	Conj	Conj	_	1	CONJUNCTION
+3	akşam	akşam	Noun	Noun	A3sg|Pnon|Nom	4	POSSESSOR
+4	yemekleriyle	yemek	Noun	Noun	A3pl|P3sg|Ins	9	MODIFIER
+5	her	her	Det	Det	_	6	DETERMINER
+6	şubesinde	şube	Noun	Noun	A3sg|P3sg|Loc	9	MODIFIER
+7	aynı	aynı	Adj	Adj	_	8	MODIFIER
+8	kaliteyi	kalite	Noun	NAdj	A3sg|Pnon|Acc	9	OBJECT
+9	yakalamış	yakala	Verb	Verb	Pos|Narr|A3sg	0	PREDICATE
+10	mekan	mekân	Noun	Noun	A3sg|Pnon|Nom	9	SUBJECT
+11	.	.	Punc	Punc	_	10	PUNCTUATION
+
+5032:2
+1	tatlılarını	tatlı	Noun	NAdj	A3pl|P3pl|Acc	2	OBJECT
+2	_	öv	Verb	Verb	Pos	3	DERIV
+3	övmeye	_	Noun	Inf2	A3sg|Pnon|Dat	6	MODIFIER
+4	gerek	gerek	Conj	Conj	_	3	CONJUNCTION
+5	bile	bile	Adverb	Adverb	_	6	MODIFIER
+6	görmüyorum	gör	Verb	Verb	Neg|Prog1|A1sg	0	PREDICATE
+7	.	.	Punc	Punc	_	6	PUNCTUATION
+
+5032:3
+1	yazın	yaz	Noun	Noun	A3sg|Pnon|Gen	3	POSSESSOR
+2	_	don	Verb	Verb	Caus|Pos	3	DERIV
+3	dondurması	_	Noun	Inf2	A3sg|P3sg|Nom	5	SUBJECT
+4	da	da	Conj	Conj	_	3	INTENSIFIER
+5	denenmeli	dene	Verb	Verb	Pass|Pos|Neces|A3sg	0	PREDICATE
+6	.	.	Punc	Punc	_	5	PUNCTUATION
+
+5033:0
+1	Sütlü	sütlü	Adj	Adj	_	2	MODIFIER
+2	tatlıları	tatlı	Noun	NAdj	A3pl|Pnon|Acc	4	OBJECT
+3	mükemmel	mükemmel	Adj	Adj	_	4	OBJECT
+4	diyebilirim	de	Verb	Verb	Able|Pos|Aor|A1sg	0	PREDICATE
+5	.	.	Punc	Punc	_	4	PUNCTUATION
+
+5033:1
+1	Çayı	çay	Noun	Noun	A3sg|P3sg|Nom	2	SUBJECT
+2	güzel	güzel	Adj	Adj	_	0	PREDICATE
+3	.	.	Punc	Punc	_	2	PUNCTUATION
+
+5033:2
+1	Döneri	döner	Noun	NAdj	A3sg|Pnon|Acc	5	OBJECT
+2	çoğu	çoğu	Det	Det	_	3	DETERMINER
+3	insan	insan	Noun	Noun	A3sg|Pnon|Nom	4	POSSESSOR
+4	tarafından	taraf	Noun	Noun	A3sg|P3sg|Abl	5	MODIFIER
+5	sevilmese	sev	Verb	Verb	Pass|Neg|Desr|A3sg	8	MODIFIER
+6	de	de	Conj	Conj	_	5	INTENSIFIER
+7	ben	ben	Pron	Pers	A1sg|Pnon|Nom	8	SUBJECT
+8	seviyorum	sev	Verb	Verb	Pos|Prog1|A1sg	0	PREDICATE
+9	.	.	Punc	Punc	_	8	PUNCTUATION
+
+5033:3
+1	Ama	ama	Conj	Conj	_	0	CONJUNCTION
+2	iskenderi	iskender	Noun	Noun	A3sg|P3sg|Nom	4	SUBJECT
+3	güzel	güzel	Adj	Adj	_	4	MODIFIER
+4	degil	degil	Noun	Noun	A3sg|Pnon|Nom	0	PREDICATE
+5	.	.	Punc	Punc	_	4	PUNCTUATION
+
+5033:4
+1	Sos	sos	Noun	Noun	A3sg|Pnon|Nom	2	POSSESSOR
+2	isini	is	Noun	Noun	A3sg|P3sg|Acc	3	OBJECT
+3	beceremiyorlar	becer	Verb	Verb	Able|Neg|Prog1|A3pl	0	PREDICATE
+4	.	.	Punc	Punc	_	3	PUNCTUATION
+
+5033:5
+1	_	yan	Noun	NAdj	A3sg|P2sg|Loc	2	DERIV
+2	Yanındaki	_	Adj	Rel	_	3	MODIFIER
+3	yogurt	yogurd	Noun	Noun	A3sg|Pnon|Nom	4	SUBJECT
+4	güzel	güzel	Adj	Adj	_	0	PREDICATE
+5	ama	ama	Conj	Conj	_	4	CONJUNCTION
+6	.	.	Punc	Punc	_	5	PUNCTUATION
+
+5033:6
+1	Bazen	bazen	Adverb	Adverb	_	6	MODIFIER
+2	gereksiz	gereksiz	Adj	Adj	_	3	MODIFIER
+3	derecede	derece	Noun	Noun	A3sg|Pnon|Loc	6	MODIFIER
+4	çok	çok	Adverb	Adverb	_	5	DETERMINER
+5	kalabalık	kalabalık	Noun	Noun	A3sg|Pnon|Nom	6	OBJECT
+6	olabiliyor	ol	Verb	Verb	Able|Pos|Prog1|A3sg	0	PREDICATE
+7	.	.	Punc	Punc	_	6	PUNCTUATION
+
+5034:0
+1	Kebap	kebap	Noun	Noun	A3sg|Pnon|Nom	3	COORDINATION
+2	ve	ve	Conj	Conj	_	1	CONJUNCTION
+3	Et	et	Noun	Noun	A3sg|Pnon|Nom	4	POSSESSOR
+4	restoranları	restoran	Noun	Noun	A3pl|P3pl|Nom	5	POSSESSOR
+5	aleminde	alem	Noun	Noun	A3sg|P3sg|Loc	7	MODIFIER
+6	sıkça	sıkça	Adverb	Adverb	_	7	MODIFIER
+7	_	karşılaş	Verb	Verb	Pass|Pos	8	DERIV
+8	karşılaşılan	_	Adj	PresPart	_	12	MODIFIER
+9	lezzet	lezzet	Noun	Noun	A3sg|Pnon|Nom	11	COORDINATION
+10	ve	ve	Conj	Conj	_	9	CONJUNCTION
+11	ambiyans	ambiyans	Noun	Noun	A3sg|Pnon|Nom	12	POSSESSOR
+12	paradoksunu	paradoks	Noun	Noun	A3sg|P3sg|Acc	13	OBJECT
+13	çözmüş	çöz	Verb	Verb	Pos|Narr|A3sg	0	PREDICATE
+14	bir	bir	Adj	Num	_	15	DETERMINER
+15	mekan	mekân	Noun	Noun	A3sg|Pnon|Nom	13	SUBJECT
+16	.	.	Punc	Punc	_	15	PUNCTUATION
+
+5034:1
+1	Lahmacun	lahmacun	Noun	Noun	A3sg|Pnon|Nom	3	COORDINATION
+2	ve	ve	Conj	Conj	_	1	CONJUNCTION
+3	içliköfte	içliköf	Noun	Noun	A3sg|Pnon|Loc	16	MODIFIER
+4	iyi	iyi	Adj	Adj	_	12	COORDINATION
+5	fakat	fakat	Conj	Conj	_	4	CONJUNCTION
+6	dolmaları	dolma	Noun	Noun	A3pl|Pnon|Acc	12	MODIFIER
+7	Antep	Antep	Noun	Prop	A3sg|Pnon|Nom	8	POSSESSOR
+8	usulünde	usul	Noun	Noun	A3sg|P3sg|Loc	12	MODIFIER
+9	İstanbul	İstanbul	Noun	Prop	A3sg|Pnon|Nom	12	MODIFIER
+10	'da	'da	?	?	_	12	MODIFIER
+11	_	ye	Verb	Verb	Pos	12	DERIV
+12	yediklerim	_	Noun	PastPart	A3pl|P1sg|Nom	13	POSSESSOR
+13	arasında	ara	Noun	NAdj	A3sg|P3sg|Loc	16	MODIFIER
+14	en	en	Adverb	Adverb	_	15	MODIFIER
+15	_	iyi	Noun	NAdj	A3pl|Pnon|Abl	16	DERIV
+16	iyilerdendi	_	Verb	Zero	Past|A3sg	0	PREDICATE
+17	.	.	Punc	Punc	_	16	PUNCTUATION
+
+5034:2
+1	Etler	et	Noun	Noun	A3pl|Pnon|Nom	2	SUBJECT
+2	malzeme	malze	Verb	Verb	Neg|Imp|A2sg	4	COORDINATION
+3	,	,	Punc	Punc	_	2	PUNCTUATION
+4	marinasyon	marinasyon	Noun	Noun	A3sg|Pnon|Nom	12	COORDINATION
+5	,	,	Punc	Punc	_	4	PUNCTUATION
+6	_	pişir	Verb	Verb	Pos	7	DERIV
+7	pişirme	_	Noun	Inf2	A3sg|Pnon|Nom	9	COORDINATION
+8	ve	ve	Conj	Conj	_	7	CONJUNCTION
+9	sunum	sunum	Noun	Noun	A3sg|Pnon|Nom	10	POSSESSOR
+10	açısından	açı	Noun	Noun	A3sg|P3sg|Abl	12	MODIFIER
+11	çok	çok	Adverb	Adverb	_	12	MODIFIER
+12	başarılı	başarılı	Adj	Adj	_	0	PREDICATE
+13	.	.	Punc	Punc	_	12	PUNCTUATION
+
+5034:3
+1	Özellikle	özellikle	Adverb	Adverb	_	4	MODIFIER
+2	fıstıklı	fıstıklı	Adj	Adj	_	3	MODIFIER
+3	kebap	kebap	Noun	Noun	A3sg|Pnon|Nom	4	SUBJECT
+4	favorim	favori	Noun	NAdj	A3sg|P1sg|Nom	0	PREDICATE
+5	.	.	Punc	Punc	_	4	PUNCTUATION
+
+5034:4
+1	Katmer	katmer	Noun	Noun	A3sg|Pnon|Nom	3	SUBJECT
+2	de	de	Conj	Conj	_	1	INTENSIFIER
+3	muazzam	muazzam	Adj	Adj	_	0	PREDICATE
+4	.	.	Punc	Punc	_	3	PUNCTUATION
+
+5034:5
+1	Ambiyans	ambiyans	Noun	Noun	A3sg|Pnon|Nom	3	COORDINATION
+2	ve	ve	Conj	Conj	_	1	CONJUNCTION
+3	dekorasyon	dekorasyon	Noun	Noun	A3sg|Pnon|Nom	19	SUBJECT
+4	titizlikle	titizlikle	Adverb	Adverb	_	5	MODIFIER
+5	_	tasarla	Verb	Verb	Pass|Pos	6	DERIV
+6	tasarlanmış	_	Adj	NarrPart	_	7	MODIFIER
+7	_	ol	Verb	Verb	Pos	8	DERIV
+8	olan	_	Adj	PresPart	_	10	MODIFIER
+9	bu	bu	Det	Det	_	10	DETERMINER
+10	mekanda	mekan	Noun	Noun	A3sg|Pnon|Loc	19	MODIFIER
+11	menüye	menü	Noun	Noun	A3sg|Pnon|Dat	19	MODIFIER
+12	bağlı	bağlı	Adj	Adj	_	13	MODIFIER
+13	kalmayatak	kalmayatak	Noun	Noun	A3sg|Pnon|Nom	19	SUBJECT
+14	tamamen	tamamen	Adverb	Adverb	_	19	MODIFIER
+15	sizin	siz	Pron	Pers	A2pl|Pnon|Gen	16	POSSESSOR
+16	isteklerinize	istek	Noun	Noun	A3pl|P2pl|Dat	17	ARGUMENT
+17	göre	göre	Postp	PCDat	_	19	MODIFIER
+18	sipariş	sipariş	Noun	Noun	A3sg|Pnon|Nom	19	MWE
+19	verebiliyorsunuz	ver	Verb	Verb	Able|Pos|Prog1|A2pl	0	PREDICATE
+20	.	.	Punc	Punc	_	19	PUNCTUATION
+
+5035:0
+1	Manzara	manzara	Noun	Noun	A3sg|Pnon|Nom	2	SUBJECT
+2	süper	süper	Adj	Adj	_	0	PREDICATE
+3	,	,	Punc	Punc	_	2	PUNCTUATION
+4	yemekler	yemek	Noun	Noun	A3pl|Pnon|Nom	6	SUBJECT
+5	fena	fena	Adj	Adj	_	6	ARGUMENT
+6	değil	değil	Postp	Neg	Pres|A3sg	16	COORDINATION
+7	ama	ama	Conj	Conj	_	6	CONJUNCTION
+8	porsiyon	porsiyon	Noun	Noun	A3sg|Pnon|Nom	9	POSSESSOR
+9	miktarı	miktar	Noun	Noun	A3sg|P3sg|Nom	16	SUBJECT
+10	çook	çook	Noun	Noun	A3sg|Pnon|Nom	11	MWE
+11	çook	çook	Noun	Noun	A3sg|Pnon|Nom	12	MWE
+12	azz	azz	Noun	Noun	A3sg|Pnon|Nom	16	MODIFIER
+13	o	o	Det	Det	_	14	DETERMINER
+14	fiyatı	fiyat	Noun	Noun	A3sg|Pnon|Acc	16	OBJECT
+15	kesinlikle	kesinlik	Noun	Noun	A3sg|Pnon|Ins	16	MODIFIER
+16	haketmiyor	haketmiyor	Noun	Noun	A3sg|Pnon|Nom	2	APPOSITION
+17	.	.	Punc	Punc	_	16	PUNCTUATION
+
+5035:1
+1	happymoons	happymoons	Noun	Noun	A3sg|Pnon|Nom	9	SUBJECT
+2	daha	daha	Adverb	Adverb	_	3	MODIFIER
+3	iyi	iyi	Adj	Adj	_	7	MODIFIER
+4	daha	daha	Adverb	Adverb	_	5	MODIFIER
+5	uygun	uygun	Adj	Adj	_	7	MODIFIER
+6	we	we	?	?	_	7	MODIFIER
+7	porsiyonları	porsiyon	Noun	Noun	A3pl|Pnon|Acc	9	OBJECT
+8	çok	çok	Adverb	Adverb	_	9	MODIFIER
+9	büyük	büyük	Adj	Adj	_	0	PREDICATE
+10	.	.	Punc	Punc	_	9	PUNCTUATION
+
+5036:0
+1	çok	çok	Adverb	Adverb	_	2	DETERMINER
+2	sıcak	sıcak	Adj	Adj	_	4	MODIFIER
+3	çok	çok	Adj	Adj	_	4	DETERMINER
+4	kalabalık	kalabalık	Noun	Noun	A3sg|Pnon|Nom	0	ROOT
+5	denizden	deniz	Noun	Noun	A3sg|Pnon|Abl	7	MODIFIER
+6	koku	koku	Noun	Noun	A3sg|Pnon|Nom	7	SUBJECT
+7	geliyor	gel	Verb	Verb	Pos|Prog1|A3sg	0	ROOT
+8	yemekleri	yemek	Noun	Noun	A3pl|Pnon|Acc	0	ROOT
+9	orta	orta	Adj	Adj	_	10	MODIFIER
+10	garsonlar	garson	Noun	Noun	A3pl|Pnon|Nom	0	ROOT
+11	ilgisiz	ilgisiz	Adj	Adj	_	12	MODIFIER
+12	kahvaltısı	kahvaltı	Noun	Noun	A3sg|P3sg|Nom	20	MODIFIER
+13	zayıf	zayıf	Adj	Adj	_	14	MODIFIER
+14	üzerine	üzer	Noun	Noun	A3sg|P3sg|Dat	15	MODIFIER
+15	_	git	Verb	Verb	Pos	16	DERIV
+16	gidip	_	Adverb	AfterDoingSo	_	20	MODIFIER
+17	Saray	saray	Noun	Noun	A3sg|Pnon|Nom	18	MWE
+18	dan	dan	Noun	Noun	A3sg|Pnon|Nom	19	MWE
+19	suböreği	subörek	Noun	Noun	A3sg|Pnon|Nom	20	MWE
+20	yedik	ye	Verb	Verb	Pos|Past|A1pl	0	ROOT
+21	otopark	otopark	Noun	Noun	A3sg|Pnon|Nom	0	ROOT
+22	_	ücret	Noun	Noun	A3sg|Pnon|Nom	23	DERIV
+23	ücretsiz	_	Adj	Without	_	24	MODIFIER
+24	_	de	Verb	Verb	Pos	25	DERIV
+25	diyip	_	Adverb	AfterDoingSo	_	27	MODIFIER
+26	ücret	ücret	Noun	Noun	A3sg|Pnon|Nom	27	OBJECT
+27	alıyor	al	Verb	Verb	Pos|Prog1|A3sg	0	ROOT
+
+5037:0
+1	Çalışanlar	çalışan	Noun	Noun	A3pl|Pnon|Nom	4	SUBJECT
+2	kesinlikle	kesinlik	Noun	Noun	A3sg|Pnon|Ins	4	MODIFIER
+3	çok	çok	Adverb	Adverb	_	4	DETERMINER
+4	nezih	nezih	Noun	Noun	A3sg|Pnon|Nom	0	PREDICATE
+5	.	.	Punc	Punc	_	4	PUNCTUATION
+
+5037:1
+1	Çayı	çay	Noun	Noun	A3sg|Pnon|Acc	4	OBJECT
+2	da	da	Conj	Conj	_	1	INTENSIFIER
+3	güzel	güzel	Adj	Adj	_	4	MODIFIER
+4	yapıyorlar	yap	Verb	Verb	Pos|Prog1|A3pl	0	PREDICATE
+5	yanına	yan	Noun	NAdj	A3sg|P3sg|Dat	8	MODIFIER
+6	da	da	Conj	Conj	_	5	INTENSIFIER
+7	su	su	Noun	Noun	A3sg|Pnon|Nom	8	POSSESSOR
+8	böreği	börek	Noun	Noun	A3sg|P3sg|Nom	4	MODIFIER
+9	.	.	Punc	Punc	_	8	PUNCTUATION
+
+5037:2
+1	Tavsiye	tavsiye	Noun	Noun	A3sg|Pnon|Nom	2	MWE
+2	ederim	et	Verb	Verb	Pos|Aor|A1sg	0	PREDICATE
+3	.	.	Punc	Punc	_	2	PUNCTUATION
+
+5037:3
+1	Istiklal	Istiklal	Noun	Prop	A3sg|Pnon|Nom	2	MWE
+2	Caddesi	Caddesi	Noun	Prop	A3sg|Pnon|Nom	7	SUBJECT
+3	'ne	'ne	?	?	_	5	MODIFIER
+4	_	gir	Verb	Verb	Pos	5	DERIV
+5	girdiğinizde	_	Noun	PastPart	A3sg|P2pl|Loc	7	MODIFIER
+6	solda	sol	Noun	NAdj	A3sg|Pnon|Loc	7	MODIFIER
+7	kalıyor	kal	Verb	Verb	Pos|Prog1|A3sg	0	PREDICATE
+8	.	.	Punc	Punc	_	7	PUNCTUATION
+
+5038:0
+1	Deniz	Deniz	Noun	Prop	A3sg|Pnon|Nom	2	POSSESSOR
+2	kenarında	kenar	Noun	NAdj	A3sg|P3sg|Loc	3	MODIFIER
+3	_	ol	Verb	Verb	Pos	4	DERIV
+4	olan	_	Adj	PresPart	_	6	MODIFIER
+5	bütün	bütün	Adj	Adj	_	6	MODIFIER
+6	mekanların	mekan	Noun	Noun	A3pl|Pnon|Gen	7	POSSESSOR
+7	aurası	aura	Noun	Noun	A3sg|P3sg|Nom	13	SUBJECT
+8	başka	başka	Adj	Adj	_	10	MODIFIER
+9	tabi	tabi	Interj	Interj	_	10	MODIFIER
+10	adı	ad	Noun	Noun	A3sg|Pnon|Acc	13	OBJECT
+11	birde	bir	Noun	Num	A3sg|Pnon|Loc	13	MODIFIER
+12	Fenerbahçe	Fenerbahçe	Noun	Prop	A3sg|Pnon|Nom	13	OBJECT
+13	olursa	ol	Verb	Verb	Pos|Aor|Cond|A3sg	0	PREDICATE
+14	...	...	Punc	Punc	_	13	PUNCTUATION
+
+5038:1
+1	_	aç	Verb	Verb	Pass|Pos	2	DERIV
+2	Açıldığından	_	Noun	PastPart	A3sg|P3sg|Abl	9	MODIFIER
+3	bu	bu	Det	Det	_	4	ARGUMENT
+4	yana	yana	Postp	PCAbl	_	9	MODIFIER
+5	buranın	bura	Noun	Noun	A3sg|Pnon|Gen	6	POSSESSOR
+6	keyfini	keyif	Noun	Noun	A3sg|P3sg|Acc	9	OBJECT
+7	çıkarmayı	çıkarma	Noun	Noun	A3sg|Pnon|Acc	9	OBJECT
+8	çok	çok	Adverb	Adverb	_	9	DETERMINER
+9	seviyorum	sev	Verb	Verb	Pos|Prog1|A1sg	0	PREDICATE
+10	.	.	Punc	Punc	_	9	PUNCTUATION
+
+5038:2
+1	Klasik	klasik	Adj	Adj	_	2	MODIFIER
+2	lezzetler	lezzet	Noun	Noun	A3pl|Pnon|Nom	0	PREDICATE
+3	...	...	Punc	Punc	_	2	PUNCTUATION
+
