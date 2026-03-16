@@ -1,30 +1,21 @@
 import pandas as pd
 import xml.etree.ElementTree as ET
 
-
-# XML dosyasını oku
-# Dosyanın tam yolunu tırnak içine yapıştır ve başına r harfi koy
-xml_file = r'C:\Users\arhan\PycharmProjects\learningpy\cleaning_trsa\semeval2016-task5\TraningDataSubtask1Restaurant)\reviews.xml'
-
-
+# Kendi bilgisayarındaki tam yolu buraya yapıştır
+xml_file = r'/cleaning_trsa/semeval2016-task5/trial data2/tu_restaurant_trial_sb2.xml'
 
 tree = ET.parse(xml_file)
 root = tree.getroot()
-
 data = []
 
 for review in root.findall('Review'):
     sentences = review.find('sentences')
     if sentences is not None:
         for sentence in sentences.findall('sentence'):
-            # Metni çekiyoruz
-            text_element = sentence.find('text')
-            text = text_element.text if text_element is not None else ""
+            text_el = sentence.find('text')
+            text = text_el.text if text_el is not None else ""
 
-            # Opinions etiketini arıyoruz
             opinions = sentence.find('Opinions')
-
-            # Eğer Opinions varsa (yani OutOfScope değilse ve yorum içeriyorsa)
             if opinions is not None:
                 for op in opinions.findall('Opinion'):
                     data.append({
@@ -33,17 +24,11 @@ for review in root.findall('Review'):
                         'category': op.get('category'),
                         'polarity': op.get('polarity')
                     })
-            # Not: Eğer Opinions yoksa, bu cümle data listesine eklenmez (skips).
 
-# DataFrame oluştur
 df = pd.DataFrame(data)
-
-# CSV'ye kaydet
 df.to_csv('TU_REST_SB1_TEST.csv', index=False, encoding='utf-8-sig')
+print(f"İşlem tamam! {len(df)} satır oluşturuldu.")
 
-# Kontrol için ilk 5 satırı yazdır
-print(f"İşlem tamam! Toplam {len(df)} adet opinion satırı oluşturuldu.")
-print(df.head())
 
 """
 import pandas as pd
