@@ -1,0 +1,33 @@
+﻿text,target,category,polarity
+Son olarak dün gittiğim her gittiğimde ayrı keyif aldığım güzel mekan.,mekan,RESTAURANT#GENERAL,positive
+"Sahibi Ara Güler isminde bir fotoğrafçı mekanın içi de çok keyifli , yemekleri de leziz personel de oldukça nazik. ",mekanın içi,AMBIENCE#GENERAL,positive
+"Sahibi Ara Güler isminde bir fotoğrafçı mekanın içi de çok keyifli , yemekleri de leziz personel de oldukça nazik. ",yemekleri,FOOD#QUALITY,positive
+"Sahibi Ara Güler isminde bir fotoğrafçı mekanın içi de çok keyifli , yemekleri de leziz personel de oldukça nazik. ",personel,SERVICE#GENERAL,positive
+Tüm hardallı balığı denedim ardından elmalı yeşil çay ikisi de enfesti.,hardallı balığı,FOOD#QUALITY,positive
+Tüm hardallı balığı denedim ardından elmalı yeşil çay ikisi de enfesti.,elmalı yeşil çay,DRINKS#QUALITY,positive
+Giderseniz deneyebilirsiniz :),NULL,RESTAURANT#GENERAL,positive
+	Gördüğüm en güzel dekorasyonlu simit sarayı diyebilirim.,dekorasyonlu,AMBIENCE#GENERAL,positive
+Yemek alanının orta yerinde dairesel olarak inşa edilmiş ve her tarafı camdan.,NULL,AMBIENCE#GENERAL,neutral
+Ben bir patatesli börek hastası olarak hep patatesli gül börek alıyorum. ,patatesli börek,FOOD#QUALITY,positive
+Simit sandviçleri de Denenmeli.,Simit sandviçleri,FOOD#QUALITY,positive
+Viaport için alışveriş arasında dinlenebileceğiniz hoş bir mekan.,mekan,AMBIENCE#GENERAL,positive
+Kahvaltı tabağının 12.5 tl den 18.5 tl ye çıkması gerçekten çok komik.,Kahvaltı tabağının,FOOD#PRICES,negative
+Bir yudum portakal suyu koyarak tabağı süsleyerek göz dolduruyorlar .,tabağı,FOOD#STYLE_OPTIONS,negative
+Ayrıca bu mekanın manzarası vs yok çok dar bir mekan . ,mekan,AMBIENCE#GENERAL,negative
+Bahçesi diyorlar da bahçe dediğiniz küçücük alan ve yer bulmak imkansız .,Bahçesi,AMBIENCE#GENERAL,negative
+Ayrıca mekanın sahibi içten değil bence laubali .,mekanın sahibi,SERVICE#GENERAL,negative
+"Fiyatlar yakın, sokakta rahat bir ortamda, kaşıkla çeşitli balık servisi alıyorsunuz.",Fiyatlar,RESTAURANT#PRICES,neutral
+"Fiyatlar yakın, sokakta rahat bir ortamda, kaşıkla çeşitli balık servisi alıyorsunuz.",ortamda,AMBIENCE#GENERAL,positive
+"Fiyatlar yakın, sokakta rahat bir ortamda, kaşıkla çeşitli balık servisi alıyorsunuz.",balık servisi,FOOD#STYLE_OPTIONS,positive
+İyi bir yer belki arada bir denenebilir.,yer,RESTAURANT#GENERAL,positive
+Fiyatları ortalamanın üstünde. ,Fiyatları,RESTAURANT#PRICES,negative
+Ulaşım zor.,Ulaşım,LOCATION#GENERAL,negative
+Etleri oldukça lezzetli. ,Etleri,FOOD#QUALITY,positive
+Şarap çeşitleri fazla ve şaraplar kaliteli.,Şarap,DRINKS#STYLE_OPTIONS,positive
+Şarap çeşitleri fazla ve şaraplar kaliteli.,şaraplar,DRINKS#QUALITY,positive
+Garsonlar elbette kibarlar ama sürekli etrafınızda dolaşıp size bakmaları bazen huzursuzluk verebiliyor.,Garsonlar,SERVICE#GENERAL,positive
+Garsonlar elbette kibarlar ama sürekli etrafınızda dolaşıp size bakmaları bazen huzursuzluk verebiliyor.,NULL,SERVICE#GENERAL,negative
+Mekan-dekorasyon fena değil ama etlerin kalitesi ve fiyatların yüksekliği ile karşılaştırıldığında biraz sönük kalıyor.,Mekan-dekorasyon,AMBIENCE#GENERAL,negative
+Mekan-dekorasyon fena değil ama etlerin kalitesi ve fiyatların yüksekliği ile karşılaştırıldığında biraz sönük kalıyor.,etlerin,FOOD#QUALITY,negative
+Mekan-dekorasyon fena değil ama etlerin kalitesi ve fiyatların yüksekliği ile karşılaştırıldığında biraz sönük kalıyor.,fiyatların,RESTAURANT#PRICES,negative
+Lokumu tavsiye ederim.,Lokumu,FOOD#QUALITY,negative
