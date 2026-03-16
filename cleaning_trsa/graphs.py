@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Temizlenmiş final dosyanı oku
-df = pd.read_csv(r'/cleaning_trsa/merged_semeval.csv')
+df = pd.read_csv(r'C:\Users\arhan\PycharmProjects\learningpy\cleaning_trsa\merged_semeval.csv')
 
 # NaN metin kalmışsa diye son bir güvenlik önlemi
 df = df.dropna(subset=['text'])
@@ -52,4 +52,5 @@ print(f"Genel Ortalama Metin Uzunluğu: {ortalama_uzunluk:.2f} karakter.")
 null_target_satirlari = df[df['target'].isna() | (df['target'] == 'null')]
 print(f"Toplam target'ı null/NaN olan satır sayısı: {len(null_target_satirlari)}")
 print(null_target_satirlari)
-
+print("null sum: ")
+print(df.isnull().sum)
