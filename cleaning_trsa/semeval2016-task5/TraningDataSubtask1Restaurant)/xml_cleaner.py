@@ -1,10 +1,13 @@
-
 import pandas as pd
 import xml.etree.ElementTree as ET
 
+
 # XML dosyasını oku
 # Dosyanın tam yolunu tırnak içine yapıştır ve başına r harfi koy
-xml_file = r"C:\Users\arhan\PycharmProjects\learningpy\cleaning_trsa\semeval2016-task5\test data gold annotations\TU_REST_SB2_TEST.xml"
+xml_file = r'C:\Users\arhan\PycharmProjects\learningpy\cleaning_trsa\semeval2016-task5\TraningDataSubtask1Restaurant)\reviews.xml'
+
+
+
 tree = ET.parse(xml_file)
 root = tree.getroot()
 
