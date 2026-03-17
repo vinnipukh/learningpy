@@ -7,12 +7,13 @@ from sklearn.metrics import accuracy_score
 from sklearn.metrics import confusion_matrix
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
-import seaborn as sns
 
 df = pd.read_csv("mydata.csv")
 df = df.drop(columns=["No","Name"])
 
 df["Type2"] = df["Type2"].fillna("None")
+
+df_plot = df
 
 df = pd.get_dummies(df, columns=["Type1","Type2"])
 
@@ -48,5 +49,13 @@ plt.figure(figsize=(6,8))
 sns.scatterplot(x="PC1",y="PC2",hue="Legendary", data = pca_df,palette="viridis")
 plt.title('Pokémon Dataset - PCA (2 Bileşen)')
 plt.show()
+"""
 
+print(df_plot.columns)
 
+plt.style.use("dark_background")
+plt.figure(figsize=(12,6))
+
+sns.dogplot(data=df_plot,x="Height",y="Weight",bins=40,color="Aqua",kde=True)
+plt.show()
+"""
