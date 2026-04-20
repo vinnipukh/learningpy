@@ -34,12 +34,22 @@ scaler = StandardScaler()
 X_train = scaler.fit_transform(X_train)
 X_test = scaler.transform(X_test)
 
+
+
 model.fit(X_train,y_train)
 y_pred =model.predict(X_test)
 
 print(f"Accuracy on test set: {accuracy_score(y_test, y_pred):.2f}")
 print(confusion_matrix(y_test, y_pred))
 
+# Sadece ilk sütunu (örneğin Height) kullanarak çizim yap
+plt.scatter(X_test.iloc[:, 0], y_test, color='blue', label='Gerçek')
+plt.scatter(X_test.iloc[:, 0], y_pred, color='red', label='Tahmin')
+plt.legend()
+plt.show()
+
+
+"""
 pca = PCA(n_components=2)
 X_pca=pca.fit_transform(X_train)
 pca_df = pd.DataFrame(data=X_pca,columns=["PC1","PC2"])
@@ -49,6 +59,7 @@ plt.figure(figsize=(6,8))
 sns.scatterplot(x="PC1",y="PC2",hue="Legendary", data = pca_df,palette="viridis")
 plt.title('Pokémon Dataset - PCA (2 Bileşen)')
 plt.show()
+"""
 """
 
 print(df_plot.columns)
